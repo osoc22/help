@@ -37,7 +37,7 @@ We'd like to ask you to be online (on Discord) between 08:30 and 09:00 on Monday
 
 The first day is mainly an introduction day to get to know your teammates, coach, project and other teams. Many of you are new to open summer of code and that makes it super exciting.
 
-Look at the [**calendar**](calendar-for-osoc21-belgium/) to discover what we'll be doing in the next days.
+Look at the [**calendar**](calendar-for-osoc22-belgium/) to discover what we'll be doing in the next days.
 
 {% hint style="info" %}
 TODO
