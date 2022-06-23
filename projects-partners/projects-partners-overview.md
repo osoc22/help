@@ -1,0 +1,14 @@
+# Projects & Partners overview
+
+| ****[**Agentschap Binnenlands Bestuur**](abb.md)****                           | ABB                                      | Jodi Deloof                                                             | Christophe Leroy                                   |   |   |
+| ------------------------------------------------------------------------------ | ---------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------- | - | - |
+| ****[**BOSA, iO Digital & OnWheels**](bosa-onwheels.md)****                    | On Wheels                                | Robin Julien (partner coach)                                            | Pieter Vandervennet                                |   |   |
+| ****[**BOSA & iO Digital**](inspector-widget.md)****                           | Inspector Widget                         | iO Digital / BOSA coach (partner) Bavo (iO) / Miel (iO) / Fabian (BOSA) | Christophe Leroy                                   |   |   |
+| ****[**BOSA & iO Digital**](offline-voice-assistant.md)****                    | "Hey, Bosa .." (Offline Voice Assistant) | iO Digital / BOSA coach (partner) Bavo (iO) / Miel (iO) / Bert (BOSA)   | Inti Valderas Caro                                 |   |   |
+| ****[**BOSA & iO Digital**](procedure-builder.md) ****                         | Procedure Builder                        | \[TBC]                                                                  | \[TBC!]                                            |   |   |
+| ****[**IDLab**](idlab.md)****                                                  | Solid                                    | Thor Galle                                                              | Demian Dekoninck                                   |   |   |
+| ****[**NCCN (National Crisiscentrum)**](nccn.md)****                           | Tracker                                  | Jonathan Belien (Partner coach)                                         | Meg Vandezande                                     |   |   |
+| [**open summer of code**](osoc.md)****                                         | comms team                               | Niels                                                                   | Lotte                                              |   |   |
+| ****[**University Library Ghent Boekentoren & FRIS**](boekentoren-fris.md)**** | The Power of Sharing Knowledge           | Miet Claes (Partner Coach)                                              | Pieterjan Dendauw (Partner Coach)                  |   |   |
+| ****[**Vanhout**](CIRCL-Vanhout.md)****                                        | Building in 3D                           | Robin Julien                                                            | <p>Peter Bertels (partner coach)<br>Thor Galle</p> |   |   |
+
