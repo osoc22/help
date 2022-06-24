@@ -1,9 +1,5 @@
 # Week 3 Day 4: Invite People!
 
-## Calendar
-
-{% embed url="https://calendar.google.com/calendar/embed?src=mietclaes.com_h1rs31a79809r742e5lpdpegbg%40group.calendar.google.com&ctz=Europe%2FBrussels&dates=20210722%2F20210722&mode=day" %}
-
 ## Prep for next week
 
 You have all afternoon to prep for next week. This could include:

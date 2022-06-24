@@ -37,11 +37,11 @@ Welcome to open summer of code! You'll get an introduction about what osoc is ab
 
     _-> Compose it together in the folder of your team under meeting minutes:_ [_https://drive.google.com/drive/folders/10hWr4Tc4CnIka0XqHZ1FmJeOKryfCHKW?usp=sharing_](https://drive.google.com/drive/folders/10hWr4Tc4CnIka0XqHZ1FmJeOKryfCHKW?usp=sharing)__
 
-## \[optional talk] Dev 101
+## \[optional workshop] Dev 101
 
 Chris, 2-time student alumni and now second time coach shows the non-devs what devving really is. Want to expand your 🧠, extend your [**t-profile**](https://en.wikipedia.org/wiki/T-shaped\_skills) and understand your teammates better? Grab lunch and attend this talk!
 
-This talk will be live at BOSA.
+Find the meeting [link in the calendar](https://calendar.google.com/calendar/u/0/embed?src=mietclaes.com\_h1rs31a79809r742e5lpdpegbg@group.calendar.google.com\&ctz=Europe/Brussels\&dates=20220704/20220708\&mode=week).
 
 ## Partner meetings
 
