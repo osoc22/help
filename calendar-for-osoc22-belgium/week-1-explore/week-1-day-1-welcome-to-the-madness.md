@@ -35,7 +35,7 @@ Welcome to open summer of code! You'll get an introduction about what osoc is ab
 * Define the goal
 *   Compose list of questions for partner/client
 
-    _-> Compose it together in the folder of your team under meeting minutes_
+    _-> Compose it together in the folder of your team under meeting minutes:_ [_https://drive.google.com/drive/folders/10hWr4Tc4CnIka0XqHZ1FmJeOKryfCHKW?usp=sharing_](https://drive.google.com/drive/folders/10hWr4Tc4CnIka0XqHZ1FmJeOKryfCHKW?usp=sharing)__
 
 ## Partner meetings
 
@@ -43,7 +43,7 @@ Welcome to open summer of code! You'll get an introduction about what osoc is ab
 
 Mondays are always full of opportunities, and at osoc they present themselves as partner meetings.
 
-There's time in the morning to prepare your partner meetings, if you didn't do that already the day before! To keep in mind for your first meeting:
+To keep in mind for your first meeting:
 
 * [ ] Present your team members (students and coaches)
 * [ ] Check if you understood all needs and goals
@@ -62,17 +62,3 @@ Tutorial: how to do a client meeting.
 Scroll down to see more days, scroll to the right to see more teams and their links!
 
 {% embed url="https://docs.google.com/spreadsheets/d/1NC3uATQqpqzZiJf1yiymdm4IPLrldd2_c541jWOb-wA/edit?usp=sharing" %}
-
-## Say Cheese!
-
-Send over **a picture** of _each team member_ + **a team picture** with _students and coaches_
-
-* Make sure you wear your osoc shirt, and if you don't have it (yet), grab a colourful one 🌈
-* Add it in the **team picture folder**
-  * Create a team folder in that folder for your team _team-name_
-  * Name each picture _team-name-member-name-picture_,\
-    and if it's a group pic _team-name-team-picture_
-
-{% hint style="warning" %}
-TODO: picture folder
-{% endhint %}
