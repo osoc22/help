@@ -1,8 +1,4 @@
-# Week 2 Day 1: First Build Week + Talks + Networking (but fun)
-
-## Calendar
-
-{% embed url="https://calendar.google.com/calendar/embed?src=mietclaes.com_h1rs31a79809r742e5lpdpegbg%40group.calendar.google.com&ctz=Europe%2FBrussels&dates=20210712%2F20210712&mode=day" %}
+# Week 2 Day 1: First Build Week + Talks
 
 ## Gooooood Morning
 
@@ -12,7 +8,7 @@ Build what you've defined last week. Go team!
 
 ## Test What You Build
 
-If you build something, but nobody know how to use it, does it even exist?
+_If you build something, but nobody know how to use it, does it even exist?_
 
 How to conduct user interviews and tests: [**Conduct (Remote) Tests and Interviews with Real People**](https://help.osoc.be/global/tutorials/how-to-conduct-remote-tests-and-interviews-with-real-people)****
 
@@ -29,7 +25,7 @@ Is Docker still a mystery for you? Say no more! Jodi recommended Selwin's talk b
 Rutger founded Conversation Starter a while ago; and he'll reveal how he did it! He's also been a coach with osoc several times; doing a stellar job. Meeting link in [**calendar**](week-1-day-2.md).
 
 {% hint style="info" %}
-Can't attend the talk or workshop? Don't worry! You can always [watch them after work](../../workshops-and-talks.md) with some 🍿🥤
+Can't attend the talk or workshop? Don't worry! They are all optional.
 {% endhint %}
 
 ## Conversation Starter
