@@ -63,9 +63,9 @@ Scroll down to see more days, scroll to the right to see more teams and their li
 
 {% embed url="https://docs.google.com/spreadsheets/d/1NC3uATQqpqzZiJf1yiymdm4IPLrldd2_c541jWOb-wA/edit?usp=sharing" %}
 
-## Say Cheese & Prep your Conversation Starter Profile
+## Say Cheese!
 
-Send over **a picture** of _each team member_ + **take a screenshot** with _students and coaches_
+Send over **a picture** of _each team member_ + **a team picture** with _students and coaches_
 
 * Make sure you wear your osoc shirt, and if you don't have it (yet), grab a colourful one 🌈
 * Add it in the **team picture folder**
@@ -76,15 +76,3 @@ Send over **a picture** of _each team member_ + **take a screenshot** with _stud
 {% hint style="warning" %}
 TODO: picture folder
 {% endhint %}
-
-Because it's a remote edition, we set up a cool way to meet other people randomly – with Conversation Starter (founded by a coach of ours, Rutger!)
-
-{% hint style="warning" %}
-TODO: Conversation starter?
-{% endhint %}
-
-Get started here: [**https://events.conversationstarter.net/e/osoc/**](https://events.conversationstarter.net/e/osoc/)****
-
-1. Today: Set up your profile; make it all about you!
-2. Later this week: You'll get to schedule conversations with people that spark your interest. If you want to let faith decide who you'll meet, we'll pair you with random people!
-3. Monday 12 July in the evening: Let's rolllll

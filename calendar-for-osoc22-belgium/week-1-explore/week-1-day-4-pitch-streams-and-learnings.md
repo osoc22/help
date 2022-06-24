@@ -8,16 +8,17 @@ On the last day of week 1 we get to see what the other teams have been up to! Pr
 
 ### Pitching
 
-**Create short pitch (to introduce the team and project, slides optional).**
+**Create short pitch  to introduce the project and team. Slides optional.**
 
 * Decide who pitches – and add it to [**the sheet**](https://docs.google.com/spreadsheets/d/1kYlOkmtwzf7le9x\_HVQ8tdbAn6gg2xG2tNKE-qMEm-Q/edit?usp=sharing)****
-  * The sequence of pitches will be the one in the **** [**project sheet**](https://docs.google.com/spreadsheets/d/1kYlOkmtwzf7le9x\_HVQ8tdbAn6gg2xG2tNKE-qMEm-Q/edit?usp=sharing).
+  * The sequence of pitches will be the one in the **** [**project sheet**](https://docs.google.com/spreadsheets/d/1kYlOkmtwzf7le9x\_HVQ8tdbAn6gg2xG2tNKE-qMEm-Q/edit?usp=sharing)
   * The pitcher gets ready to go go go!
 * Pitch
-  * 60 seconds (optional slides, maximum of 6 slides)
+  * Pitch form: 60 seconds (optional slides, maximum of 6 slides)
   * Pitch content
     * Pitch the project (biggest part!)
       * Pick a project name – add it to [**the sheet**](https://docs.google.com/spreadsheets/d/1kYlOkmtwzf7le9x\_HVQ8tdbAn6gg2xG2tNKE-qMEm-Q/edit?usp=sharing)
+      * Project
       * Partner
       * Goal
       * For whom
@@ -47,9 +48,15 @@ And don't forget to give everyone a wild applause 👏🦁👏🦁👏🦁👏
 Be nice _or else._ We're here to support each other to do a better job. No need to mean or 💩 on people's parade – constructive feedback and highlighting wins is \*everything\*.
 {% endhint %}
 
+## Say Cheese!
+
+We'll make a **picture** of _each team member_ + **a team picture** with _students and coaches_
+
+_Make sure you wear your osoc shirt – you'll get it on arrival 🌈_
+
 ## Show us what your team is about.
 
-We'll start sharing what your team has been working on, on the osoc site and on our social media – the world deserves to know about the cool stuff you've been building!
+We'll start sharing what your team has been working on, on the osoc site – the world deserves to know about the cool stuff you've been building!
 
 * Share your project name in the [excel sheet](https://docs.google.com/spreadsheets/d/1kYlOkmtwzf7le9x\_HVQ8tdbAn6gg2xG2tNKE-qMEm-Q/edit?usp=sharing).
 * Summarise your project (± 200 characters) and put it in the [excel sheet](https://docs.google.com/spreadsheets/d/1kYlOkmtwzf7le9x\_HVQ8tdbAn6gg2xG2tNKE-qMEm-Q/edit?usp=sharing) (you can base yourselves on your pitch).
