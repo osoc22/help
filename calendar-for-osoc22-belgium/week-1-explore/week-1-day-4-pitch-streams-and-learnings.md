@@ -83,3 +83,9 @@ _Find your groove. Use this time to get ready to conquer the world... next week.
 ## _Optional After Work_
 
 _Language tables! Share the languages you speak and try a new one._
+
+__
+
+{% hint style="success" %}
+YOU SURVIVED WEEK 1!!11!!!!
+{% endhint %}
