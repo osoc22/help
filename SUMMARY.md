@@ -12,7 +12,7 @@
     * [Week 1 Day 1: Welcome to the Madness](calendar-for-osoc22-belgium/week-1-explore/week-1-day-1-welcome-to-the-madness.md)
     * [Week 1 Day 2: Start Hacking](calendar-for-osoc22-belgium/week-1-explore/week-1-day-2-meet-the-client-and-start-hacking.md)
     * [Week 1 Day 3: Hackathon End](calendar-for-osoc22-belgium/week-1-explore/week-1-day-3-hackathon-end.md)
-    * [Week 1 Day 4: Pitch Streams & Learnings](calendar-for-osoc22-belgium/week-1-explore/week-1-day-4-pitch-streams-and-learnings.md)
+    * [Week 1 Day 4: Pitching & Learning](calendar-for-osoc22-belgium/week-1-explore/week-1-day-4-pitch-streams-and-learnings.md)
   * [Week 2: Build & Test](calendar-for-osoc22-belgium/week-2-build-and-test/README.md)
     * [Week 2 Day 1: First Build Week + Talks + Networking (but fun)](calendar-for-osoc22-belgium/week-2-build-and-test/week-1-day-2.md)
     * [Week 2 Day 2: Client meetings + Talks + Selfie time](calendar-for-osoc22-belgium/week-2-build-and-test/week-2-day-2.md)

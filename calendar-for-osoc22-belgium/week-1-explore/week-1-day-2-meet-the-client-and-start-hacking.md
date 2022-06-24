@@ -1,19 +1,23 @@
 ---
-description: Get a first go on your project!
+description: Your first chance to meet the client and get a grip on your project.
 ---
 
-# Week 1 Day 2: Start Hacking
+# Week 1 Day 2: Meet the Client & Start Hacking \[under construction]
 
-## Partner meetings
+## Calendar
+
+{% embed url="https://calendar.google.com/calendar/embed?src=mietclaes.com_h1rs31a79809r742e5lpdpegbg%40group.calendar.google.com&ctz=Europe%2FBrussels&dates=20210706%2F20210706&mode=day" %}
+
+## Client meetings
 
 ### How
 
-Mondays are always full of opportunities, and at osoc they present themselves as partner meetings.
+On Tuesdays we wear pink.. I mean meet clients.
 
-There's time in the morning to prepare your partner meetings, if you didn't do that already the day before! To keep in mind for your first meeting:
+There's time in the morning to prepare your client meetings, if you didn't do that already the day before! To keep in mind for your first meeting:
 
 * [ ] Present your team members (students and coaches)
-* [ ] Check if you understood all needs and goals
+* [ ] Check if you understood all needs and goals (you can reuse the pitch you made on day 1)
 * [ ] List all the questions you have
 * [ ] Decide who does the talking
 * [ ] Decide who takes notes
@@ -28,7 +32,7 @@ Tutorial: how to do a client meeting.
 
 Scroll down to see more days, scroll to the right to see more teams and their links!
 
-{% embed url="https://docs.google.com/spreadsheets/d/1NC3uATQqpqzZiJf1yiymdm4IPLrldd2_c541jWOb-wA/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1TZA3TUkrc_Q8BYG9NHA1oS6o67V_v8BErq0fm5Bi-i0/edit?usp=sharing" %}
 
 ## Hackathons
 
@@ -57,14 +61,4 @@ You're definitely free to do it _your way!_ As long as the team is working toget
 
 {% hint style="info" %}
 Oh and remember the rule of **π** ([pi](https://twitter.com/pietercolpaert))... When doing an estimation of a task, let's say, for an hour, it's most likely to take about 3.14 times longer. Thank us later.
-{% endhint %}
-
-## \[optional workshop] How to make your projects Live Long and Prosper 🖖
-
-This is an inspirational talk that will help you plan for _longevity_ in your project. This talk by Anastasia about how you can make your project live long and prosper – will help your project live beyond osoc.
-
-Find the meeting [link in the calendar](https://calendar.google.com/calendar/u/0/embed?src=mietclaes.com\_h1rs31a79809r742e5lpdpegbg@group.calendar.google.com\&ctz=Europe/Brussels\&dates=20220704/20220708\&mode=week).
-
-{% hint style="success" %}
-YOU SURVIVED WEEK 1!!11!!!!
 {% endhint %}

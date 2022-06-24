@@ -1,10 +1,32 @@
-# Week 1 Day 4: Pitch Streams & Learnings
+# Week 1 Day 4: Pitching & Learning
 
-## Pitches
+**Team & Pitch Preparation**\
+**– team only**
+---------------
 
-### Pitching the pitches
+On the last day of week 1 we get to see what the other teams have been up to! Prepare to introduce yourselves to the other teams.
 
-* Summarise project (± 200 characters) and put it in this excel sheet&#x20;
+### Pitching
+
+**Create short pitch (to introduce the team and project, slides optional).**
+
+* Decide who pitches – and add it to [**the sheet**](https://docs.google.com/spreadsheets/d/1kYlOkmtwzf7le9x\_HVQ8tdbAn6gg2xG2tNKE-qMEm-Q/edit?usp=sharing)****
+  * The sequence of pitches will be the one in the **** [**project sheet**](https://docs.google.com/spreadsheets/d/1kYlOkmtwzf7le9x\_HVQ8tdbAn6gg2xG2tNKE-qMEm-Q/edit?usp=sharing).
+  * The pitcher gets ready to go go go!
+* Pitch
+  * 60 seconds (optional slides, maximum of 6 slides)
+  * Pitch content
+    * Pitch the project (biggest part!)
+      * Pick a project name – add it to [**the sheet**](https://docs.google.com/spreadsheets/d/1kYlOkmtwzf7le9x\_HVQ8tdbAn6gg2xG2tNKE-qMEm-Q/edit?usp=sharing)
+      * Partner
+      * Goal
+      * For whom
+    * Pitch the team (very short!)
+      * Introduce Coaches & students
+
+Pitches\
+– everyone
+----------
 
 ### Watching the pitches
 
@@ -27,11 +49,18 @@ Be nice _or else._ We're here to support each other to do a better job. No need 
 
 ## Show us what your team is about.
 
-* Share your project name and team name in the [excel sheet](https://docs.google.com/spreadsheets/d/1kYlOkmtwzf7le9x\_HVQ8tdbAn6gg2xG2tNKE-qMEm-Q/edit?usp=sharing).
-* Create a Crest for your team.
-* Summarise your project (± 200 characters) and put it in the [excel sheet](https://docs.google.com/spreadsheets/d/1kYlOkmtwzf7le9x\_HVQ8tdbAn6gg2xG2tNKE-qMEm-Q/edit?usp=sharing).
+We'll start sharing what your team has been working on, on the osoc site and on our social media – the world deserves to know about the cool stuff you've been building!
+
+* Share your project name in the [excel sheet](https://docs.google.com/spreadsheets/d/1kYlOkmtwzf7le9x\_HVQ8tdbAn6gg2xG2tNKE-qMEm-Q/edit?usp=sharing).
+* Summarise your project (± 200 characters) and put it in the [excel sheet](https://docs.google.com/spreadsheets/d/1kYlOkmtwzf7le9x\_HVQ8tdbAn6gg2xG2tNKE-qMEm-Q/edit?usp=sharing) (you can base yourselves on your pitch).
 
 {% embed url="https://docs.google.com/spreadsheets/d/1kYlOkmtwzf7le9x_HVQ8tdbAn6gg2xG2tNKE-qMEm-Q/edit?usp=sharing" %}
+
+### **Create a crest**
+
+Create a **crest** together \[[**Find out how**](https://help.osoc.be/global/how-to-create-crests)]. This crest represents your project and your team!
+
+Share the crest in the [**crests**](https://drive.google.com/drive/folders/11O6Qzy3T\_wn9rBI8jF2rCqluWarcgs\_v?usp=sharing) folder, name it after your project name, like so: _project-name-crest._
 
 ## Prep for next week
 
@@ -44,10 +73,6 @@ You have all afternoon to prep for next week. This could include:
 
 _Find your groove. Use this time to get ready to conquer the world... next week._
 
-## \[optional workshop] How to make your projects Live Long and Prosper 🖖
+## _Optional After Work_
 
-Walk into the weekend inspired by Anastasia about how you can make your project live long and prosper – beyond osoc ([**click the calendar**](week-1-day-4-pitch-streams-and-learnings.md#calendar) to find the meeting link!).
-
-{% hint style="success" %}
-YOU SURVIVED WEEK 1!!11!!!!
-{% endhint %}
+_Language tables! Share the languages you speak and try a new one._

@@ -14,11 +14,15 @@ Simon Bolivarlaan 30, bus 1 WTC III 1000 Brussel – a 5 minute walk from the Br
 
 {% embed url="https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=50.86037,4.36076;50.86072,4.35612" %}
 
-## **Introduction – for everyone**
+**Introduction**\
+**– for everyone**
+------------------
 
 Welcome to open summer of code! You'll get an introduction about what osoc is about, what [**Open Knowledge Belgium**](https://openknowledge.be/) is, how we work ([**code of conduct**](https://help.osoc.be/global/code-of-conduct) & [**how we work**](https://help.osoc.be/global/way-of-work)), what our 4 weeks will be about and what you'll be ✨[**delivering**](https://help.osoc.be/global/how-to-deliver-like-a-pro) ✨.
 
-## **Get to know your team & your project – team only**
+**Get to know your team & your project** \
+**– team only**
+---------------
 
 ### Who’s who & what do you do?
 
@@ -33,44 +37,31 @@ Welcome to open summer of code! You'll get an introduction about what osoc is ab
 
     _-> Compose it together in the folder of your team under meeting minutes_
 
-## **Team & Pitch Prep – team only**
+## Partner meetings
 
-Prepare to introduce yourselves to the other teams!
+### How
 
-### Pitching
+Mondays are always full of opportunities, and at osoc they present themselves as partner meetings.
 
-**Create short pitch (to introduce the team and project, no slides needed).** You can base yourself on the project description you made.
+There's time in the morning to prepare your partner meetings, if you didn't do that already the day before! To keep in mind for your first meeting:
 
-{% hint style="warning" %}
-TODO links for sheets
-{% endhint %}
+* [ ] Present your team members (students and coaches)
+* [ ] Check if you understood all needs and goals
+* [ ] List all the questions you have
+* [ ] Decide who does the talking
+* [ ] Decide who takes notes
 
-* Decide who pitches – and add it to **the sheet**
-  * The sequence of pitches will be the one in the sheet.
-  * The pitcher waits in the waiting room, and will be dragged into the pitching arena whenever they are up! Find out how here: [**https://help.osoc.be/global/pitching/hackathon-pitches**](https://help.osoc.be/global/pitching/hackathon-pitches)****
-* Pitch
-  * 60 seconds – maximum of 6 slides (slides are optional)
-  * Pitch the project (biggest part!)
-    * Partner
-    * Goal
-    * For whom
-  * Introduce the team
-    * Pick a team name – also add it to **the sheet**
-    * Introduce Coaches & students
+Some tips and tricks can come in handy if you've never attended a client meeting before:
 
-### **Create a crest**
+{% embed url="https://www.youtube.com/watch?v=SvO5EfTW6Hw" %}
+Tutorial: how to do a client meeting.
+{% endembed %}
 
-Create a **crest** together \[[**Find out how**](https://help.osoc.be/global/how-to-create-crests)]
+### When
 
-Share the crest in the **crests** folder, name it after your project and team name, like so: _team-name-crest_
+Scroll down to see more days, scroll to the right to see more teams and their links!
 
-{% hint style="warning" %}
-TODO links for crest
-{% endhint %}
-
-## **Live stream team Presentations**
-
-Enjoy watching the other teams, while the [**pitcher in your team shines**](week-1-day-1-welcome-to-the-madness.md#pitching)!
+{% embed url="https://docs.google.com/spreadsheets/d/1NC3uATQqpqzZiJf1yiymdm4IPLrldd2_c541jWOb-wA/edit?usp=sharing" %}
 
 ## Say Cheese & Prep your Conversation Starter Profile
 
