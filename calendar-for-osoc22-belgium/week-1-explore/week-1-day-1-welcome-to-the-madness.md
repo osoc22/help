@@ -4,13 +4,17 @@ description: Focus on getting to know open summer of code, your team and your pr
 
 # Week 1 Day 1: Welcome to the Madness
 
-## Calendar \[old, under consstruction]
+## **First day: nice to meet you **_**live**_**!**
 
-{% embed url="https://calendar.google.com/calendar/embed?src=mietclaes.com_h1rs31a79809r742e5lpdpegbg%40group.calendar.google.com&ctz=Europe%2FBrussels&dates=20210705%2F20210705&mode=day" %}
+We expect you to be there at 09:00 ✨_sharp_✨ on Monday morning.
+
+### Location
+
+Simon Bolivarlaan 30, bus 1 WTC III 1000 Brussel – a 5 minute walk from the Brussels North station!
+
+{% embed url="https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=50.86037,4.36076;50.86072,4.35612" %}
 
 ## **Introduction – for everyone**
-
-Grab a cup of coffee/tea/bubbletea/water and sit back!
 
 Welcome to open summer of code! You'll get an introduction about what osoc is about, what [**Open Knowledge Belgium**](https://openknowledge.be/) is, how we work ([**code of conduct**](https://help.osoc.be/global/code-of-conduct) & [**how we work**](https://help.osoc.be/global/way-of-work)), what our 4 weeks will be about and what you'll be ✨[**delivering**](https://help.osoc.be/global/how-to-deliver-like-a-pro) ✨.
 
@@ -20,20 +24,14 @@ Welcome to open summer of code! You'll get an introduction about what osoc is ab
 
 * Icebreaker; get to know each other!
 * Share your skills, talents hobbies, …
-* Tell us what you can help other people with!
 
 ### What are we going to do?
 
-* Study the briefing – You can find the briefing in your [**project site**](../../projects-partners/projects-partners-overview.md)!
+* Study the briefing – You can find the briefing in your [**project site**](../../projects-partners/projects-partners-overview.md)**.**
 * Define the goal
-* Summarise project (± 200 characters) and put it in this excel sheet&#x20;
+*   Compose list of questions for partner/client
 
-{% hint style="warning" %}
-TODO links for excel sheet
-{% endhint %}
-
-* Compose list of questions for partner/client
-  * You can compose it together in the folder of your team under _meeting minutes_
+    _-> Compose it together in the folder of your team under meeting minutes_
 
 ## **Team & Pitch Prep – team only**
 

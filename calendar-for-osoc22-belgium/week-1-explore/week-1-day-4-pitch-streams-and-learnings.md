@@ -1,12 +1,14 @@
 # Week 1 Day 4: Pitch Streams & Learnings
 
-## Calendar
+## Pitches
 
-{% embed url="https://calendar.google.com/calendar/embed?src=mietclaes.com_h1rs31a79809r742e5lpdpegbg%40group.calendar.google.com&ctz=Europe%2FBrussels&dates=20210708%2F20210708&mode=day" %}
+### Pitching the pitches
 
-## Pitch Festival
+* Summarise project (± 200 characters) and put it in this excel sheet&#x20;
 
-Now is the team to discover what all teams have been up to this week, and what they all built! Give your colleagues some constructive feedback so they can do _even better_ next week.
+### Watching the pitches
+
+Now is the team to discover what all teams have been up to this week, and what they all built! Give your colleagues some constructive feedback so they can do better next week.
 
 Tell us about the pitch:
 
@@ -22,6 +24,14 @@ And don't forget to give everyone a wild applause 👏🦁👏🦁👏🦁👏
 {% hint style="warning" %}
 Be nice _or else._ We're here to support each other to do a better job. No need to mean or 💩 on people's parade – constructive feedback and highlighting wins is \*everything\*.
 {% endhint %}
+
+## Show us what your team is about.
+
+* Share your project name and team name in the [excel sheet](https://docs.google.com/spreadsheets/d/1kYlOkmtwzf7le9x\_HVQ8tdbAn6gg2xG2tNKE-qMEm-Q/edit?usp=sharing).
+* Create a Crest for your team.
+* Summarise your project (± 200 characters) and put it in the [excel sheet](https://docs.google.com/spreadsheets/d/1kYlOkmtwzf7le9x\_HVQ8tdbAn6gg2xG2tNKE-qMEm-Q/edit?usp=sharing).
+
+{% embed url="https://docs.google.com/spreadsheets/d/1kYlOkmtwzf7le9x_HVQ8tdbAn6gg2xG2tNKE-qMEm-Q/edit?usp=sharing" %}
 
 ## Prep for next week
 
