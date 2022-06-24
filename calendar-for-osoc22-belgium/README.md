@@ -14,8 +14,6 @@ _We do not work on Fridays, weekends or holidays!_
 
 ### Add your calendar to yours
 
-{% embed url="https://calendar.google.com/calendar/embed?amp;bgcolor=%23ffffff&amp;color=%23B1440E&amp;ctz=Europe/Brussels&amp;height=600&amp;hl=en_GB&amp;showCalendars=0&amp;showDate=0&amp;showNav=0&amp;showPrint=0&amp;showTabs=0&amp;showTz=0&amp;src=bWlldGNsYWVzLmNvbV9oMXJzMzFhNzk4MDlyNzQyZTVscGRwZWdiZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;wkst=2&dates=20220704/20220729&showTitle=0" %}
-
 {% embed url="https://calendar.google.com/calendar/embed?src=mietclaes.com_h1rs31a79809r742e5lpdpegbg%40group.calendar.google.com&ctz=Europe%2FBrussels" %}
 
 ## Week per week
