@@ -25,6 +25,10 @@ Create short pitch  to introduce the project and team. Slides optional.
     * Pitch the team (very short!)
       * Introduce Coaches & students
 
+{% embed url="https://help.osoc.be/global/tutorials/pitching/pitch-content-tips" %}
+
+{% embed url="https://help.osoc.be/global/tutorials/pitching/the-pitch#pitch-slides-template-with-tips-and-tricks" %}
+
 Pitches\
 – everyone
 ----------
