@@ -1,4 +1,4 @@
-# Week 1 Day 4: Pitching & Learning
+# Week 1 Day 4: Stop Hacking! Pitching & Learning
 
 **Team & Pitch Preparation**\
 **– team only**
@@ -24,6 +24,10 @@ On the last day of week 1 we get to see what the other teams have been up to! Pr
       * For whom
     * Pitch the team (very short!)
       * Introduce Coaches & students
+
+{% embed url="https://help.osoc.be/global/tutorials/pitching/pitch-content-tips" %}
+
+{% embed url="https://help.osoc.be/global/tutorials/pitching/the-pitch#pitch-slides-template-with-tips-and-tricks" %}
 
 Pitches\
 – everyone
