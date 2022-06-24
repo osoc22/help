@@ -1,41 +1,9 @@
 # Week 3 Day 4: Invite People!
 
-## Pitch Festival
+## Day off. Enjoy!
 
-Now is the team to discover what all teams have been up to this week, and what they all built! Give your colleagues some constructive feedback so they can do _even better_ next week.
+🏖
 
-Tell us about the pitch:
+## Want to do Something Anyways? Invite People to the Demo Day!
 
-* What did you like?
-* What could they do better?
-
-About the project:
-
-* Share tips and tricks, if you have any!
-
-And don't forget to give everyone a wild applause 👏🦁👏🦁👏🦁👏
-
-{% hint style="warning" %}
-Be nice _or else._ We're here to support each other to do a better job. No need to mean or 💩 on people's parade – constructive feedback and highlighting wins is \*everything\*.
-{% endhint %}
-
-## Invite People to the Demo Day!
-
-Don't just invite your friends and family to show off what you made; invite your (future) colleagues and employers – so you get to land that dream job 😎
-
-## Prep for next week
-
-You have all afternoon to prep for next week. This could include:
-
-* Go over the learnings you got from other teams about your pitch
-* Reevaluate the way you worked together on this hackathon, what could you improve?
-* Decide together what you'd like to build, with a [**brainstorm**](https://help.osoc.be/global/coaches/the-coaching-job/how-to-manage-a-team#3-brainstorm-ideas-2-bonus-adaptions) or a [**scoping session**](https://help.osoc.be/global/coaches/the-coaching-job/how-to-manage-a-team#how-to-do-a-scoping-session) for example.
-* Do a retro with the team; what did you like about working together with a team, what would you want to change?
-
-_Find your groove. Use this time to get ready to conquer the world... next week._
-
-## Omg
-
-{% hint style="success" %}
-YOU SURVIVED WEEK 3!!!3!!!!!3
-{% endhint %}
+Don't just invite your friends and family to show off what you made; invite your (future) colleagues and employers – so you get to land that dream job
