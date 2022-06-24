@@ -33,7 +33,7 @@ You're definitely free to do it _your way!_ As long as the team is working toget
 Oh and remember the rule of **π** ([pi](https://twitter.com/pietercolpaert))... When doing an estimation of a task, let's say, for an hour, it's most likely to take about 3.14 times longer. Thank us later.
 {% endhint %}
 
-## \[optional workshop] How to make your projects Live Long and Prosper 🖖 by Anastasia
+## \[optional workshop] How to make your projects Live Long and Prosper 🖖
 
 This is an inspirational talk that will help you plan for _longevity_ in your project. This talk by Anastasia about how you can make your project live long and prosper – will help your project live beyond osoc.
 

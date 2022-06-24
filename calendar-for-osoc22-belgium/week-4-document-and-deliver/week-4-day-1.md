@@ -1,31 +1,20 @@
-# Week 4 Day 1: Pitches + Invite People!
+# Week 4 Day 1: Invite People!
 
-## Pitch Festival
+## Calendar
 
-Now is the team to discover what all teams have been up to this week, and what they all built! Give your colleagues some constructive feedback so they can do _even better_ next week.
-
-Tell us about the pitch:
-
-* What did you like?
-* What could they do better?
-
-About the project:
-
-* Share tips and tricks, if you have any!
-
-And don't forget to give everyone a wild applause 👏🦁👏🦁👏🦁👏
-
-{% hint style="warning" %}
-Be nice _or else._ We're here to support each other to do a better job. No need to mean or 💩 on people's parade – constructive feedback and highlighting wins is \*everything\*.
-{% endhint %}
+{% embed url="https://calendar.google.com/calendar/embed?src=mietclaes.com_h1rs31a79809r742e5lpdpegbg%40group.calendar.google.com&ctz=Europe%2FBrussels&dates=20210726%2F20210726&mode=day" %}
 
 ## Invite People to the Demo Day!
 
-Don't just invite your friends and family to show off what you made; invite your (future) colleagues and employers – so you get to land that dream job 😎
+Don't just invite your friends and family to show off what you made; invite your (future) colleagues and employers – so you get to land that dream job 😎[**https://bit.ly/DemoDayosoc21**](https://bit.ly/DemoDayosoc21)****
+
+{% embed url="https://bit.ly/DemoDayosoc21" %}
+https://bit.ly/DemoDayosoc21
+{% endembed %}
 
 ## Make Sure Your Project is Merged & Deployed
 
-Today is the Final Call for Deployment Help. Ask Clément if you need it; Tuesday is his last day!
+Today is the Final Call for Deployment Help. [**Ask Jonathan for help**](https://github.com/osoc21/technical-support) if you need it; Tuesday is his last day!
 
 ## Deliver Like a Pro
 
@@ -38,3 +27,13 @@ Use this guide to deliver like a pro:
 Examples for the Handover Dossier:
 
 {% embed url="https://drive.google.com/drive/folders/1PtQ66HVd3DKuJtRML1gxb_nSMY52pIeW?usp=sharing" %}
+
+## Pick your Talk
+
+### \[optional workshop] Creative Commons by Gwen
+
+Annelies has a ton of experience with making home-made videos look professional – even if you don't have expensive gear. Make your pitch look _finger-licking-good_ for the demo day 🔥[**Link in calendar**](week-4-day-1.md#calendar).
+
+{% hint style="info" %}
+Can't attend the talk or workshop? Don't worry! You can always [**watch them after work**](../../workshops-and-talks.md) with some 🍿🥤
+{% endhint %}
