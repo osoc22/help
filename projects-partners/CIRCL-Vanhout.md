@@ -4,17 +4,19 @@ description: Digital Building
 
 # CIRCL Vanhout
 
-## Short description \[in progress]
+## Short description
 
 Inspire people what their future home could look like based on 3D visualisations and open data.
 
 ## Project
 
-Project template: [https://cloud.openknowledge.be/s/apwL5wMKjeMqzdf](https://cloud.openknowledge.be/s/apwL5wMKjeMqzdf)
+**Project template:** [https://cloud.openknowledge.be/s/apwL5wMKjeMqzdf](https://cloud.openknowledge.be/s/apwL5wMKjeMqzdf)
 
-About the partner: [http://circl.be](http://circl.be) – _Your partner will give you a nice introduction as well on the first partner meeting!_
+**About the partner:** [http://circl.be](http://circl.be)&#x20;
 
-Figma workfile: [https://www.figma.com/file/OogwCTfIKW8uOt54u9CdSU/Vanhout%2FCIRCL?node-id=0%3A1](https://www.figma.com/file/OogwCTfIKW8uOt54u9CdSU/Vanhout%2FCIRCL?node-id=0%3A1)
+_Your partner will give you a nice introduction as well on the first partner meeting!_
+
+
 
 ### Resources
 
@@ -32,7 +34,7 @@ Figma workfile: [https://www.figma.com/file/OogwCTfIKW8uOt54u9CdSU/Vanhout%2FCIR
 * [https://circl.be/nieuw/tool/model.php](https://circl.be/nieuw/tool/model.php)
 * [https://circl.be/nieuw/tool/model.php?project=81](https://circl.be/nieuw/tool/model.php?project=81)
 * [https://circl.be/nieuw/tool/model.php?project=81\&json](https://circl.be/nieuw/tool/model.php?project=81\&json)
-* [https://apps.autodesk.com/RVT/en/Detail/Index?id=7087667796484471162\&appLang=en\&os=Win64](https://apps.autodesk.com/RVT/en/Detail/Index?id=7087667796484471162\&appLang=en\&os=Win64) Revit naar obj converting
+* [https://apps.autodesk.com/RVT/en/Detail/Index?id=7087667796484471162\&appLang=en\&os=Win64](https://apps.autodesk.com/RVT/en/Detail/Index?id=7087667796484471162\&appLang=en\&os=Win64) (Revit naar obj converting)
 
 ### GitHub
 
@@ -40,18 +42,17 @@ In progress!
 
 Example:
 
-* Team: [https://github.com/orgs/osoc21/teams/the-floof-fighters](https://github.com/orgs/osoc21/teams/the-floof-fighters)
-* Repository: [https://github.com/osoc21/RoadBase](https://github.com/osoc21/RoadBase)
+* Repository: [https://github.com/osoc22/project-vanhout](https://github.com/osoc22/project-vanhout)
 
 ### **Discord Channel**
 
-\#name-of-channel
+\#circl-vanhout
 
 ## File storage
 
 _For collaboration & storing files._&#x20;
 
-**Link to the drive**
+**Figma workfile:** [https://www.figma.com/file/OogwCTfIKW8uOt54u9CdSU/Vanhout%2FCIRCL?node-id=0%3A1](https://www.figma.com/file/OogwCTfIKW8uOt54u9CdSU/Vanhout%2FCIRCL?node-id=0%3A1)
 
 ## Team
 
@@ -59,19 +60,28 @@ _For collaboration & storing files._&#x20;
 
 #### Lead
 
-Name of coach
+Robin Julien (CT Steward) - project coach
 
 #### Support
 
-Name of coach
+Jodi De Loof - technical coach
 
 ### Students
 
-Names of students
+Lin de Huybrecht
+
+Brent Van Camp
+
+Emmeline Martens
+
+Ilya Plyusnin
+
+Jorik Devreese\
+
 
 ### Specific councillors
 
-Names of councillors
+Peter Bertels (CIRCL/Vanhout)
 
 ## Logo's
 
