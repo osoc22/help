@@ -1,4 +1,4 @@
-# Week 1 Day 4: Pitching & Learning
+# Week 1 Day 4: Stop Hacking! Pitching & Learning
 
 **Team & Pitch Preparation**\
 **– team only**
@@ -24,6 +24,10 @@ On the last day of week 1 we get to see what the other teams have been up to! Pr
       * For whom
     * Pitch the team (very short!)
       * Introduce Coaches & students
+
+{% embed url="https://help.osoc.be/global/tutorials/pitching/pitch-content-tips" %}
+
+{% embed url="https://help.osoc.be/global/tutorials/pitching/the-pitch#pitch-slides-template-with-tips-and-tricks" %}
 
 Pitches\
 – everyone
@@ -63,7 +67,7 @@ We'll start sharing what your team has been working on, on the osoc site – the
 
 {% embed url="https://docs.google.com/spreadsheets/d/1kYlOkmtwzf7le9x_HVQ8tdbAn6gg2xG2tNKE-qMEm-Q/edit?usp=sharing" %}
 
-### **Create a crest**
+### **\[Deadline] Create a crest**
 
 Create a **crest** together \[[**Find out how**](https://help.osoc.be/global/how-to-create-crests)]. This crest represents your project and your team!
 
@@ -75,7 +79,7 @@ You have all afternoon to prep for next week. This could include:
 
 * Go over the learnings you got from other teams about your pitch
 * Reevaluate the way you worked together on this hackathon, what could you improve?
-* Decide together what you'd like to build, with a [**brainstorm**](https://help.osoc.be/global/coaches/the-coaching-job/how-to-manage-a-team#3-brainstorm-ideas-2-bonus-adaptions) or a [**scoping session**](https://help.osoc.be/global/coaches/the-coaching-job/how-to-manage-a-team#how-to-do-a-scoping-session) for example.
+* Decide together what you'd like to build, with a [**brainstorm**](https://help.osoc.be/global/coaches/the-coaching-job/how-to-manage-a-team#3-brainstorm-ideas-2-bonus-adaptions) or a [**scoping session**](https://help.osoc.be/global/coaches/the-coaching-job/how-to-manage-a-team#how-to-do-a-scoping-session) for example. Keep in mind... _If you build something, but nobody know how to use it, does it even exist?_
 * Do a retro with the team; what did you like about working together with a team, what would you want to change?
 
 _Find your groove. Use this time to get ready to conquer the world... next week._
