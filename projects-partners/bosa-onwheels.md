@@ -4,13 +4,13 @@ description: Making accessibility data available for everyone to use and reuse.
 
 # BOSA , iO Digital & On Wheels: Making Accessibility Accessible
 
-## Short description \[in progress]
+## Short description
 
 Making accessibility data available for everyone to use and reuse. How can we add existing accessibility data, already available via On Wheels, to Open Street Map and make community contributions available to On Wheels again as well?
 
 ## Project
 
-[https://cloud.openknowledge.be/s/i6dL5MJFDrtrerS](https://cloud.openknowledge.be/s/i6dL5MJFDrtrerS)
+**Project template:** [https://cloud.openknowledge.be/s/i6dL5MJFDrtrerS](https://cloud.openknowledge.be/s/i6dL5MJFDrtrerS)
 
 _Your partner will give you a nice introduction as well on the first partner meeting!_
 
@@ -24,20 +24,17 @@ _Your partner will give you a nice introduction as well on the first partner mee
 
 ### GitHub
 
-Example:
-
-* Team: [https://github.com/orgs/osoc21/teams/the-floof-fighters](https://github.com/orgs/osoc21/teams/the-floof-fighters)
-* Repository: [https://github.com/osoc21/RoadBase](https://github.com/osoc21/RoadBase)
+* **Repository:** [https://github.com/osoc22/project-on-wheels](https://github.com/osoc22/project-on-wheels)
 
 ### **Discord Channel**
 
-\#name-of-channel
+\#on-wheels
 
 ## File storage
 
 _For collaboration & storing files._&#x20;
 
-**Link to the drive**
+**Figma file:** [https://www.figma.com/file/y8D1ENcD9EpBlFcSJgXCc1/On-Wheels-app?node-id=802%3A378](https://www.figma.com/file/y8D1ENcD9EpBlFcSJgXCc1/On-Wheels-app?node-id=802%3A378)
 
 ## Team
 
@@ -45,19 +42,25 @@ _For collaboration & storing files._&#x20;
 
 #### Lead
 
-Name of coach
+Robin Julien (On Wheels) - project coach&#x20;
 
 #### Support
 
-Name of coach
+Peter Vander Vennet (OpenStreetMap) - technical coach
 
 ### Students
 
-Names of students
+Robin van der Linde
+
+Rezaul Hasan
+
+Alexander Rebai
+
+Andrews Leruth
 
 ### Specific councillors
 
-Names of councillors
+Bert Jehoul (BOSA)
 
 ## Logo's
 
