@@ -1,20 +1,18 @@
 # Week 3 Day 1: Invite people! + Talks
 
-## Calendar
+## **Last two weeks: new location!**
 
-{% embed url="https://calendar.google.com/calendar/embed?src=mietclaes.com_h1rs31a79809r742e5lpdpegbg%40group.calendar.google.com&ctz=Europe%2FBrussels&dates=20210719%2F20210719&mode=day" %}
+We expect you to be there at 09:00 ✨_sharp_✨ on Monday morning.
 
+### Location
 
+Herman Teirlinckgebouw, 88, Havenlaan, Brussels – a 15 minute walk from the Brussels North station.
 
-## Invite People to the Demo Day!
+{% embed url="https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=50.8604,4.3608;50.8663,4.3502" %}
 
-Don't just invite your friends and family to show off what you made; invite your (future) colleagues and employers – so you get to land that dream job 😎[**https://bit.ly/DemoDayosoc21**](https://bit.ly/DemoDayosoc21)****
+## Invite People to the Demo Day
 
-{% embed url="https://bit.ly/DemoDayosoc21" %}
-https://bit.ly/DemoDayosoc21
-{% endembed %}
-
-
+Don't just invite your friends and family to show off what you made; invite your (future) colleagues and employers – so you get to land that dream job 😎.
 
 ## Pick your Talk
 
