@@ -14,6 +14,8 @@ Project template: [https://cloud.openknowledge.be/s/apwL5wMKjeMqzdf](https://clo
 
 About the partner: [http://circl.be](http://circl.be) – _Your partner will give you a nice introduction as well on the first partner meeting!_
 
+Figma workfile: [https://www.figma.com/file/OogwCTfIKW8uOt54u9CdSU/Vanhout%2FCIRCL?node-id=0%3A1](https://www.figma.com/file/OogwCTfIKW8uOt54u9CdSU/Vanhout%2FCIRCL?node-id=0%3A1)
+
 ### Resources
 
 #### Libraries we will use
