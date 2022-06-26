@@ -1,6 +1,4 @@
-# Calendar for #osoc22 Belgium \[under construction]
-
-## UNDER CONSTRUCTION
+# Calendar for #osoc22 Belgium
 
 ## When
 
