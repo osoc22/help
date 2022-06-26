@@ -4,7 +4,7 @@
 **– team only**
 ---------------
 
-Your project has grown a lot in the past week, didn't it? Let's show our fellow students what you've been up to, and keep the feedback into account.
+Your project has grown a lot in the past week, didn't it? Let's show our fellow colleagues what you've been up to, and keep the feedback into account.
 
 ### Pitching
 
@@ -17,13 +17,13 @@ Create short pitch  to introduce the project and team. Slides optional.
   * Pitch form: 60 seconds (optional slides, maximum of 6 slides)
   * Pitch content
     * Pitch the project (biggest part!)
-      * Pick a project name – add it to [**the sheet**](https://docs.google.com/spreadsheets/d/1kYlOkmtwzf7le9x\_HVQ8tdbAn6gg2xG2tNKE-qMEm-Q/edit?usp=sharing)
       * Project
       * Partner
       * Goal
       * For whom
-    * Pitch the team (very short!)
-      * Introduce Coaches & students
+    * Pitch what you've learnt!
+      * The good things
+      * The bad things
 
 {% embed url="https://help.osoc.be/global/tutorials/pitching/pitch-content-tips" %}
 
