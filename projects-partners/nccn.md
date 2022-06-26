@@ -1,8 +1,8 @@
 ---
-description: Track & Trace
+description: Nationaal Crisiscentrum / Centre de Crise National
 ---
 
-# NCCN - Nationaal Crisiscentrum / Centre de Crise National
+# NCCN - Track & Trace
 
 ## Short Description \[in progress]
 
@@ -10,13 +10,13 @@ Developing a POC for a tracking app based on physical trackers and smartphones t
 
 ## Project
 
-Project template: [https://cloud.openknowledge.be/s/2aY5CCbzj9ZQBa4](https://cloud.openknowledge.be/s/2aY5CCbzj9ZQBa4)
+**Project template**: [https://cloud.openknowledge.be/s/2aY5CCbzj9ZQBa4](https://cloud.openknowledge.be/s/2aY5CCbzj9ZQBa4)
 
 _Your partner will give you a nice introduction as well on the first partner meeting!_
 
 ### Resources
 
-* About the partner
+* About the partner: [https://centredecrise.be/fr](https://centredecrise.be/fr) (FR) [https://crisiscentrum.be/nl](https://crisiscentrum.be/nl) (NL)
 * Tooling
 * Code languages
 * Style components
@@ -26,12 +26,12 @@ _Your partner will give you a nice introduction as well on the first partner mee
 
 Example:
 
-* Team: [https://github.com/orgs/osoc21/teams/the-floof-fighters](https://github.com/orgs/osoc21/teams/the-floof-fighters)
-* Repository: [https://github.com/osoc21/RoadBase](https://github.com/osoc21/RoadBase)
+* Team:&#x20;
+* Repository:&#x20;
 
 ### **Discord Channel**
 
-\#name-of-channel
+\#nccn
 
 ## File storage
 
@@ -45,11 +45,11 @@ _For collaboration & storing files._&#x20;
 
 #### Lead
 
-Name of coach
+Jonathan Beliën
 
 #### Support
 
-Name of coach
+Meg Vandezande
 
 ### Students
 

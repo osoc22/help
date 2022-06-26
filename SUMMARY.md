@@ -40,7 +40,7 @@
 * [BOSA & iO Digital 3: Offline Voice Assistant](projects-partners/offline-voice-assistant.md)
 * [BOSA & iO Digital 4: Government Procedure (journey) Builder](projects-partners/procedure-builder.md)
 * [IDLab](projects-partners/idlab.md)
-* [NCCN - Nationaal Crisiscentrum / Centre de Crise National](projects-partners/nccn.md)
+* [NCCN - Track & Trace](projects-partners/nccn.md)
 * [Osoc comms team](projects-partners/osoc.md)
 * [University Library Ghent Boekentoren & FRIS](projects-partners/boekentoren-fris.md)
 * [CIRCL Vanhout](projects-partners/CIRCL-Vanhout.md)
