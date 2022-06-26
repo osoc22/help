@@ -10,7 +10,7 @@ We expect you to be there at 09:00 ✨_sharp_✨ on Monday morning.
 
 ### Location
 
-Simon Bolivarlaan 30, bus 1 WTC III 1000 Brussel – a 5 minute walk from the Brussels North station!
+BOSA – Simon Bolivarlaan 30, bus 1 WTC III 1000 Brussels – a 5 minute walk from the Brussels North station!
 
 {% embed url="https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=50.86037,4.36076;50.86072,4.35612" %}
 
@@ -37,11 +37,11 @@ Welcome to open summer of code! You'll get an introduction about what osoc is ab
 
     _-> Compose it together in the folder of your team under meeting minutes:_ [_https://drive.google.com/drive/folders/10hWr4Tc4CnIka0XqHZ1FmJeOKryfCHKW?usp=sharing_](https://drive.google.com/drive/folders/10hWr4Tc4CnIka0XqHZ1FmJeOKryfCHKW?usp=sharing)__
 
-## \[optional workshop] Dev 101
+## \[optional talk] Dev 101 – Intro to Dev 001 by Chris / Dev for non dev / w.. even is dev by Chris
 
 Chris, 2-time student alumni and now second time coach shows the non-devs what devving really is. Want to expand your 🧠, extend your [**t-profile**](https://en.wikipedia.org/wiki/T-shaped\_skills) and understand your teammates better? Grab lunch and attend this talk!
 
-Find the meeting [link in the calendar](https://calendar.google.com/calendar/u/0/embed?src=mietclaes.com\_h1rs31a79809r742e5lpdpegbg@group.calendar.google.com\&ctz=Europe/Brussels\&dates=20220704/20220708\&mode=week).
+This talk will be live at BOSA.
 
 ## Partner meetings
 
