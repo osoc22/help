@@ -12,9 +12,9 @@ Making accessibility data available for everyone to use and reuse. How can we ad
 
 **Project template:** [https://cloud.openknowledge.be/s/i6dL5MJFDrtrerS](https://cloud.openknowledge.be/s/i6dL5MJFDrtrerS)
 
-_Your partner will give you a nice introduction as well on the first partner meeting!_
-
 **About the partner:** __ [https://www.onwheelsapp.com/nl/](https://www.onwheelsapp.com/nl/)
+
+_Your partner will give you a nice introduction as well on the first partner meeting!_
 
 ### Resources
 
