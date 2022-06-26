@@ -7,7 +7,7 @@
   * [🦹🏽 Development](coaches/development.md)
   * [🧙🏼‍♀️Coaching](coaches/coaching.md)
   * [🐙 Coordination](coaches/coordination.md)
-* [Calendar for #osoc22 Belgium \[under construction\]](calendar-for-osoc22-belgium/README.md)
+* [Calendar for #osoc22 Belgium](calendar-for-osoc22-belgium/README.md)
   * [Week 1: Explore](calendar-for-osoc22-belgium/week-1-explore/README.md)
     * [Week 1 Day 1: Welcome to the Madness](calendar-for-osoc22-belgium/week-1-explore/week-1-day-1-welcome-to-the-madness.md)
     * [Week 1 Day 2: Start Hacking](calendar-for-osoc22-belgium/week-1-explore/week-1-day-2-meet-the-client-and-start-hacking.md)

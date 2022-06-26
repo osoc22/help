@@ -1,4 +1,35 @@
-# Week 4 Day 1: Pitches + Invite People + Deliver like a Pro
+# Week 4 Day 1: Pitches + Invite People!
+
+##
+
+**Team & Pitch Preparation**\
+**– team only**
+---------------
+
+It's the last week – and your last time to gather feedback about your pitch. On the Demo-Day you'll be pitching this to all the osoc enthusiasts and partners!
+
+### Pitching
+
+**Create short pitch  to introduce the project and team. Slides optional.**
+
+* Decide who pitches – and add it to [**the sheet**](https://docs.google.com/spreadsheets/d/1kYlOkmtwzf7le9x\_HVQ8tdbAn6gg2xG2tNKE-qMEm-Q/edit?usp=sharing)****
+  * The sequence of pitches will be the one in the **** [**project sheet**](https://docs.google.com/spreadsheets/d/1kYlOkmtwzf7le9x\_HVQ8tdbAn6gg2xG2tNKE-qMEm-Q/edit?usp=sharing)
+  * The pitcher gets ready to go go go!
+* Pitch
+  * Pitch form: 60 seconds (optional slides, maximum of 6 slides)
+  * Pitch content
+    * Pitch the project (biggest part!)
+      * Pick a project name – add it to [**the sheet**](https://docs.google.com/spreadsheets/d/1kYlOkmtwzf7le9x\_HVQ8tdbAn6gg2xG2tNKE-qMEm-Q/edit?usp=sharing)
+      * Project
+      * Partner
+      * Goal
+      * For whom
+    * Pitch the team (very short!)
+      * Introduce Coaches & students
+
+{% embed url="https://help.osoc.be/global/tutorials/pitching/pitch-content-tips" %}
+
+{% embed url="https://help.osoc.be/global/tutorials/pitching/the-pitch#pitch-slides-template-with-tips-and-tricks" %}
 
 Pitches\
 – everyone

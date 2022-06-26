@@ -41,10 +41,6 @@ Your scoping could include:
 
 _Find your groove. Use this time to get ready to conquer the world... next week._
 
-## Make Sure Your Project is Merged & Deployed
-
-Today is the Final Call for Deployment Help. Ask Clément if you need it; Tuesday is his last day!
-
 ## Omg
 
 {% hint style="success" %}
