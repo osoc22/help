@@ -2,11 +2,7 @@
 description: Ooooooooooooooooooooooaaaaaaaaeeeeeeeeeeeuuuuuuuiiiiiiiii
 ---
 
-# Week 4 Day 4: Demo Day + Goodbye ❤️
-
-## Calendar
-
-{% embed url="https://calendar.google.com/calendar/embed?src=mietclaes.com_h1rs31a79809r742e5lpdpegbg%40group.calendar.google.com&ctz=Europe%2FBrussels&dates=20210729%2F20210729&mode=day" %}
+# Week 4 Day 4: Rehearsal + Demo Day + Goodbye ❤️
 
 ## Everything is on fire <a href="#09-00-team-only-everything-is-on-fire" id="09-00-team-only-everything-is-on-fire"></a>
 
