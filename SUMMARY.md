@@ -38,7 +38,7 @@
 * [BOSA , iO Digital & On Wheels: Making Accessibility Accessible](projects-partners/onwheels.md)
 * [BOSA & iO Digital 2: Inspector Widget](projects-partners/inspector-widget.md)
 * [BOSA & iO Digital 3: Hey BOSA](projects-partners/hey-bosa.md)
-* [BOSA & iO Digital: Government Procedure (journey) Builder](projects-partners/procedure-builder.md)
+* [BOSA & iO Digital 4: Government Procedure Builder](projects-partners/procedure-builder.md)
 * [IDLab: Powerful Personal Data](projects-partners/idlab.md)
 * [NCCN - Live tracking assets](projects-partners/nccn.md)
 * [Osoc comms team](projects-partners/osoc-comms.md)

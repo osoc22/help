@@ -2,11 +2,15 @@
 description: Disrupting Government Services – Canaries in the Coalmine
 ---
 
-# BOSA & iO Digital: Government Procedure (journey) Builder
+# BOSA & iO Digital 4: Government Procedure Builder
 
 ## Short Description&#x20;
 
-We want to develop a generic easy-to-use tool to translate procedures of governmental public services into a data model with conditional steps.&#x20;
+**We want to develop an easy-to-use web tool for government administrators, with which they can design data-gathering flows for citizens (procedures).** For example, a flow for requesting a new identity card.
+
+They should be able to create, preview and publish these procedures, which can then be filled by citizens inside a new eGovernment app that is currently being built by BOSA & iO Digital: Digital Wallet.
+
+The web tool should make it easier for adminstrators to digitize paper processes, and should as a result increase the availability of digital procedures for citizens (via Digital Wallet), which are easier to fill than paper forms, for example, by reusing citizen data.
 
 ## Project
 
@@ -14,18 +18,38 @@ We want to develop a generic easy-to-use tool to translate procedures of governm
 
 **About the partners:**
 
-**BOSA:** [https://bosa.belgium.be/](https://bosa.belgium.be/)
+**BOSA:** [https://bosa.belgium.be/](https://bosa.belgium.be/)&#x20;
+
+The Federal Public Service (FPS, in NL/FR: “Beleid en Ondersteuning; Policy and Support”: BOSA) assists the government and supports the federal organisations in various areas: IT, HR, organisational control and integrity policy, budget, accounting and public procurement contracts.
+
+Especially relevant for this project is their aim to provide qualitative eGovernment support services.
 
 **iO:** [https://www.iodigital.com/](https://www.iodigital.com/)
 
-_Your partner will give you a nice introduction as well on the first partner meeting!_
+iO Digital is working with BOSA to design and build an eGovernment app: Digital Wallet. &#x20;
+
+_Your partners will give you a nice introduction as well on the first partner meeting!_
 
 ### Resources
 
-* Tooling
-* Code languages
-* Style components
-* ...
+#### Research & context
+
+* Our partners will demonstrate Digital Wallet
+* Our partners at iO Digital will share summarized research insights that demonstrate the need for the tool
+
+#### Design
+
+* Design tool: Figma.
+  * A Figma file of Digital Wallet designs will be provided.
+* Style components: the design component library of Digital Wallet will be provided. Keep in mind that the tool we'll build is meant for use by government administrators, and Digital Wallet is meant for use by citizens. Consider BOSA's style guidelines too.
+
+#### Code
+
+* Languages and frameworks are free to choose
+
+**Use case examples**
+
+* To get an idea of what kind of forms could be digitized by administrators, take a look at the [OSLO-Step's Domain Model example](https://purl.eu/cms/oslo-service/oslo-steps/domain\_model.html). However, using that data model is not a necessity for this project.
 
 ### GitHub
 
@@ -42,37 +66,37 @@ _For collaboration & storing files._&#x20;
 
 **Link to the drive**
 
+TBD
+
 ## Team
 
 ### Coaches
 
 #### Lead
 
-Thor Galle
+[Thor Galle](https://thorgalle.me/)
 
 #### Support
 
-Inti Valderas Caro
+[Inti Valderas Caro](https://smoothsailing.be/team/inti-valderas-caro)
 
 ### Students
 
-Cyrille Mathieu
+Cyrille Mathieu - full-stack developer & student coach
 
-Joanna Kalisz
+Joanna Kalisz - design
 
-Nicolay Camacho
+Nicolay Camacho - front-end developer
 
-Aglim Benli
+Aglim Benli - full-stack developer
 
 ### Specific councillors
 
 Sam Van Den Eynde (BOSA)
 
-Tim Wouters (iO)
-
-Maxime Van der Aa (iO)
+iO Digital counselors: Maxime Van der Aa (week 1), Tim Wouters (week 2-4)
 
 ## Logo's
 
-Logo's in SVG
+Logo's in SVG, _to add_.
 
