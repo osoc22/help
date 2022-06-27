@@ -30,6 +30,7 @@ _Your partner will give you a nice introduction as well on the first partner mee
 
 ### GitHub
 
+* **Team:** [https://github.com/orgs/osoc22/teams/project-on-wheels](https://github.com/orgs/osoc22/teams/project-on-wheels)
 * **Repository:** [https://github.com/osoc22/project-on-wheels](https://github.com/osoc22/project-on-wheels)
 
 ### **Discord Channel**

@@ -16,11 +16,20 @@ This project will help citizens (by blocking false advertising) and help civil s
 
 Project template: [https://cloud.openknowledge.be/s/YyacAHxe28RoJgE](https://cloud.openknowledge.be/s/YyacAHxe28RoJgE)&#x20;
 
+**About the partners:**
+
+**BOSA**: [https://bosa.belgium.be/](https://bosa.belgium.be/)
+
+**iO:** [https://www.iodigital.com/](https://www.iodigital.com/)
+
+**FOD Economie, Economische Inspectie:** [https://economie.fgov.be/nl/over-de-fod/structuur-fod-economie/organigrammen/de-algemene-directie](https://economie.fgov.be/nl/over-de-fod/structuur-fod-economie/organigrammen/de-algemene-directie)
+
+
+
 _Your partner will give you a nice introduction as well on the first partner meeting!_
 
 ### Resources
 
-* About the partner
 * Tooling
 * Code languages
 * Style components
@@ -28,10 +37,8 @@ _Your partner will give you a nice introduction as well on the first partner mee
 
 ### GitHub
 
-Example:
-
-* Team: [https://github.com/orgs/osoc21/teams/the-floof-fighters](https://github.com/orgs/osoc21/teams/the-floof-fighters)
-* Repository: [https://github.com/osoc21/RoadBase](https://github.com/osoc21/RoadBase)
+* Team: [https://github.com/orgs/osoc22/teams/project-inspector-widget](https://github.com/orgs/osoc22/teams/project-inspector-widget)
+* Repository: [https://github.com/osoc22/project-inspector-widget](https://github.com/osoc22/project-inspector-widget)
 
 ### **Discord Channel**
 
