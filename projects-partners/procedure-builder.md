@@ -2,7 +2,7 @@
 description: Disrupting Government Services – Canaries in the Coalmine
 ---
 
-# BOSA & iO Digital 4: Government Procedure (journey) Builder
+# BOSA & iO Digital: Government Procedure (journey) Builder
 
 ## Short Description&#x20;
 
@@ -10,13 +10,18 @@ We want to develop a generic easy-to-use tool to translate procedures of governm
 
 ## Project
 
-Project template: [https://cloud.openknowledge.be/s/pj7Hao6sWSkMHHt](https://cloud.openknowledge.be/s/pj7Hao6sWSkMHHt)
+**Project template:** [https://cloud.openknowledge.be/s/pj7Hao6sWSkMHHt](https://cloud.openknowledge.be/s/pj7Hao6sWSkMHHt)
+
+**About the partners:**
+
+**BOSA:** [https://bosa.belgium.be/](https://bosa.belgium.be/)
+
+**iO:** [https://www.iodigital.com/](https://www.iodigital.com/)
 
 _Your partner will give you a nice introduction as well on the first partner meeting!_
 
 ### Resources
 
-* About the partner
 * Tooling
 * Code languages
 * Style components
@@ -24,14 +29,12 @@ _Your partner will give you a nice introduction as well on the first partner mee
 
 ### GitHub
 
-Example:
-
-* Team: [https://github.com/orgs/osoc21/teams/the-floof-fighters](https://github.com/orgs/osoc21/teams/the-floof-fighters)
-* Repository: [https://github.com/osoc21/RoadBase](https://github.com/osoc21/RoadBase)
+* **Team**: [https://github.com/orgs/osoc22/teams/project-digital-wallet](https://github.com/orgs/osoc22/teams/project-digital-wallet)
+* **Repository**: [https://github.com/osoc22/project-digital-wallet](https://github.com/osoc22/project-digital-wallet)
 
 ### **Discord Channel**
 
-\#name-of-channel
+\#procedure-builder
 
 ## File storage
 
@@ -45,19 +48,29 @@ _For collaboration & storing files._&#x20;
 
 #### Lead
 
-Name of coach
+Thor Galle
 
 #### Support
 
-Name of coach
+Inti Caro Valderas
 
 ### Students
 
-Names of students
+Cyrille Mathieu
+
+Joanna Kalisz
+
+Nicolay Camacho
+
+Aglim Benli
 
 ### Specific councillors
 
-Names of councillors
+Sam Van Den Eynde (BOSA)
+
+Tim Wouters (iO)
+
+Maxime Van der Aa (iO)
 
 ## Logo's
 
