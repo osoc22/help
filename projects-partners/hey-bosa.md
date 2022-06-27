@@ -1,12 +1,18 @@
-# BOSA & iO Digital 3: Offline Voice Assistant
+# BOSA & iO Digital 3: Hey BOSA
 
 ## Short Description \[in progress]
 
-Based on this technology: [http://rhasspy.readthedocs.io](http://rhasspy.readthedocs.io) and AI. Students need Python / NLU/NLP knowledge.
+We would like to experiment and have a more clear view on the state of a voice assistant that can run locally and don’t need an external service (so not like siri, google assistant but like [Jasper](https://jasperproject.github.io/) or [Rhasspy)](https://rhasspy.readthedocs.io/en/latest/)&#x20;
 
 ## Project
 
-Project template: [https://cloud.openknowledge.be/s/aiCYRLBG94wQH7D](https://cloud.openknowledge.be/s/aiCYRLBG94wQH7D)
+**Project template:** [https://cloud.openknowledge.be/s/aiCYRLBG94wQH7D](https://cloud.openknowledge.be/s/aiCYRLBG94wQH7D)
+
+**About the partners:**
+
+**BOSA:** [https://bosa.belgium.be/](https://bosa.belgium.be/)
+
+**iO:** [https://www.iodigital.com/](https://www.iodigital.com/)
 
 _Your partner will give you a nice introduction as well on the first partner meeting!_
 
@@ -20,14 +26,12 @@ _Your partner will give you a nice introduction as well on the first partner mee
 
 ### GitHub
 
-Example:
-
-* Team: [https://github.com/orgs/osoc21/teams/the-floof-fighters](https://github.com/orgs/osoc21/teams/the-floof-fighters)
-* Repository: [https://github.com/osoc21/RoadBase](https://github.com/osoc21/RoadBase)
+* **Team:** [https://github.com/orgs/osoc22/teams/project-hey-bosa](https://github.com/orgs/osoc22/teams/project-hey-bosa)
+* **Repository:** [https://github.com/osoc22/project-hey-bosa](https://github.com/osoc22/project-hey-bosa)
 
 ### **Discord Channel**
 
-\#name-of-channel
+\#hey-bosa
 
 ## File storage
 
@@ -41,19 +45,27 @@ _For collaboration & storing files._&#x20;
 
 #### Lead
 
-Name of coach
+Inti Valderas Caro
 
 #### Support
 
-Name of coach
+Bavo Lodewyckx (iO)
+
+Miel Van Opstal (iO)
 
 ### Students
 
-Names of students
+Aurore Van Hoorebeke
+
+Ana Gagua
+
+Erinn Van der Sande
+
+Frederik Stroobandt
 
 ### Specific councillors
 
-Names of councillors
+Bert Jehoul (BOSA)
 
 ## Logo's
 
