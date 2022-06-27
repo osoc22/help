@@ -52,7 +52,7 @@ Thor Galle
 
 #### Support
 
-Inti Caro Valderas
+Inti Valderas Caro
 
 ### Students
 
