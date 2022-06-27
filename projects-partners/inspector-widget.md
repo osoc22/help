@@ -37,12 +37,12 @@ _Your partner will give you a nice introduction as well on the first partner mee
 
 ### GitHub
 
-* Team: [https://github.com/orgs/osoc22/teams/project-inspector-widget](https://github.com/orgs/osoc22/teams/project-inspector-widget)
-* Repository: [https://github.com/osoc22/project-inspector-widget](https://github.com/osoc22/project-inspector-widget)
+* **Team:** [https://github.com/orgs/osoc22/teams/project-inspector-widget](https://github.com/orgs/osoc22/teams/project-inspector-widget)
+* **Repository:** [https://github.com/osoc22/project-inspector-widget](https://github.com/osoc22/project-inspector-widget)
 
 ### **Discord Channel**
 
-\#name-of-channel
+\#inspector-widget
 
 ## File storage
 
@@ -56,19 +56,27 @@ _For collaboration & storing files._&#x20;
 
 #### Lead
 
-Name of coach
+Christophe Leroy
 
 #### Support
 
-Name of coach
+Bavo Lodewyckx (iO)
+
+Miel Van Opstal (iO)
 
 ### Students
 
-Names of students
+Arthur Coenen
+
+Victor Vansteenkiste
+
+Camilla Frison
+
+Tischa Nyanguile
 
 ### Specific councillors
 
-Names of councillors
+Fabian Tilmant (BOSA)
 
 ## Logo's
 

@@ -4,7 +4,7 @@ description: >-
   for their future career.
 ---
 
-# University Library Ghent Boekentoren & FRIS
+# EWI FRIS – UGent Library
 
 ## Short description
 
@@ -120,5 +120,7 @@ Names of councillors
 
 ## Logo's
 
-![Logo in SVG](../.gitbook/assets/boekentoren-ugent-logo.svg)
+![Logo EWI FRIS & Vlaanderen in SVG](<../.gitbook/assets/osoc-logo-ewi-fris-vlaanderen (2).svg>)
+
+![Logo University Library Ghent Boekentoren in SVG](../.gitbook/assets/boekentoren-ugent-logo.svg)
 
