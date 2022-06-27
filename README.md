@@ -48,7 +48,7 @@ TODO
 
 ## **Invite Your Friends to the Demo Day**
 
-**Tell your friends and family to block their agenda on Thursday 29 July (13:00 to 16:00).**
+**Tell your friends and family to block their agenda on Thursday 28 July (13:00 to 16:00).**
 
 On the last day of #osoc22, we’re going to present our projects to the general public! Our Demo Day will take place via live streaming and will be open to everyone.
 
