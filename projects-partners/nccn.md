@@ -10,7 +10,7 @@ Developing a POC for a tracking app based on physical trackers and smartphones t
 
 ## Project
 
-**Project template**: [https://cloud.openknowledge.be/s/2aY5CCbzj9ZQBa4](https://cloud.openknowledge.be/s/2aY5CCbzj9ZQBa4)
+**Project template**: [https://cloud.openknowledge.be/s/6xZ9nqz66Kon2Tb](https://cloud.openknowledge.be/s/6xZ9nqz66Kon2Tb)
 
 _Your partner will give you a nice introduction as well on the first partner meeting!_
 
