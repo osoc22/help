@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="476px" height="552px" viewBox="0 0 476 552" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3">
+            <polygon id="Triangle-4" fill="#FFFFFF" points="236.784866 0 475.382324 332.319672 475.382324 455.825287 327.991791 551.230743 150.70694 551.230743 0 455.825287 0 332.319672"></polygon>
+            <g id="Group-16" transform="translate(28.000000, 42.000000)">
+                <polygon id="Path-16" fill="#F14831" transform="translate(355.000000, 297.194519) scale(-1, 1) translate(-355.000000, -297.194519) " points="420 114.388756 420 480 290 400 290 300"></polygon>
+                <polygon id="Path-16" fill="#000000" points="130 113.999718 130 479.610962 0 399.610962 0 299.610962"></polygon>
+                <polygon id="Path-24" fill="#FFE01D" points="140 99.2192093 210 0 280 100 280 480 140 480"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

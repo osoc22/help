@@ -53,13 +53,14 @@ Meg Vandezande
 
 ### Students
 
-Names of students
-
-### Specific councillors
-
-Names of councillors
+* Florian Mazzeo
+* Joshua Moelans
+* Bo Robbrecht
+* Ben Stoffels
 
 ## Logo's
 
-Logo's in SVG
+![NCCN logo](../.gitbook/assets/Symbool\_kleur\_transparant.png)
+
+![Paragon logo](<../.gitbook/assets/paragon-logo (1).svg>)
 
