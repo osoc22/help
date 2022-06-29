@@ -61,5 +61,5 @@ Names of councillors
 
 ## Logo's
 
-Logo's in SVG
+![](<../.gitbook/assets/logo-abb (1).svg>)
 
