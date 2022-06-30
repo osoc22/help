@@ -4,9 +4,11 @@ description: Linked Open Data
 
 # Agentschap Binnenlands Bestuur (ABB)
 
-## Short Description \[in progress]
+## Short Description
 
-Informing & Involving citizens, organisations, companies and governments with Linked Open Data. In progress.
+Informing & involving citizens, organisations, companies and governments with Linked Open Data. With this project, we aim to increase the quality of data about municipal taxes and to open it up.\
+\
+ABB is harnessing a large amount of data, documents and other data points about small municipality taxes, we would like to assemble this data and develop a tool that provides information about it to citizens and government administrations.
 
 ## Project
 
