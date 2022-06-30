@@ -12,7 +12,7 @@ Inspire people what their future home could look like based on 3D visualisations
 
 **Project template:** [https://cloud.openknowledge.be/s/apwL5wMKjeMqzdf](https://cloud.openknowledge.be/s/apwL5wMKjeMqzdf)
 
-**About the partner:** [http://circl.be](http://circl.be)&#x20;
+**About the partner:** [http://circl.be](http://circl.be) (new venture of Vanhout)
 
 _Your partner will give you a nice introduction as well on the first partner meeting!_
 
@@ -32,8 +32,8 @@ _Your partner will give you a nice introduction as well on the first partner mee
 #### Context
 
 * [https://circl.be/nieuw/tool/model.php](https://circl.be/nieuw/tool/model.php)
-* [https://circl.be/nieuw/tool/model.php?project=81](https://circl.be/nieuw/tool/model.php?project=81)
-* [https://circl.be/nieuw/tool/model.php?project=81\&json](https://circl.be/nieuw/tool/model.php?project=81\&json)
+* [https://circl.be/nieuw/tool/model.php?project=1](https://circl.be/nieuw/tool/model.php?project=1)
+* [https://circl.be/nieuw/tool/model.php?project=1\&json](https://circl.be/nieuw/tool/model.php?project=1\&json)
 * [https://apps.autodesk.com/RVT/en/Detail/Index?id=7087667796484471162\&appLang=en\&os=Win64](https://apps.autodesk.com/RVT/en/Detail/Index?id=7087667796484471162\&appLang=en\&os=Win64) (Revit naar obj converting)
 
 ### GitHub
@@ -85,5 +85,9 @@ Peter Bertels (CIRCL/Vanhout)
 
 ## Logo's
 
-Logo's in SVG
+![](../.gitbook/assets/logo-circl-compact.svg)
+
+![](../.gitbook/assets/logo-circl-horizontal.svg)
+
+![](../.gitbook/assets/logo-vanhout.svg)
 
