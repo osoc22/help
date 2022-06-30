@@ -16,11 +16,25 @@ _Your partner will give you a nice introduction as well on the first partner mee
 
 ### Resources
 
-* About the partner
-* Tooling
+*   About the partner: \
+    \
+    ABB (the Agency for Domestic Governance) is an agency of the Flemish government that is responsible for policy on local governments, cities, equal opportunities, integration and civic integration, Brussels and the Flemish Periphery.&#x20;
+
+    &#x20;
+
+    ABB’s mission is to contribute to sustainable and democratic coexistence in diversity by connecting and strengthening citizens and governance and strongly believes that innovation and technology is key to accomplishing this mission.
+
+    &#x20;
+
+    With the [program Local Decisions as Linked Open Data (LBLOD)](https://lokaalbestuur.vlaanderen.be/lokale-besluiten-als-gelinkte-open-data/gelinkte-mobiliteit) ABB already implemented innovative techniques in one of the core business: local decisions making. By applying the linked data-methods for structuring and publishing information, ABB makes sure that data is open so that people and (search) machines can consult it on the Internet. \
+
+* Tooling\
+  [\
+  open source tools](https://github.com/lblod) to make it easy for users to structure the data\
+  ABB gitbook: [https://abb-vlaanderen.gitbook.io/abb/](https://abb-vlaanderen.gitbook.io/abb/)\
+
 * Code languages
 * Style components
-* ...
 
 ### GitHub
 
@@ -31,7 +45,7 @@ Example:
 
 ### **Discord Channel**
 
-\#name-of-channel
+\#abb
 
 ## File storage
 
@@ -45,19 +59,26 @@ _For collaboration & storing files._&#x20;
 
 #### Lead
 
-Name of coach
+Jodi Deloof
 
 #### Support
 
-Name of coach
+Meg Vandezande\
+Niels Dewelde
 
 ### Students
 
-Names of students
+Carlos Emiliano Ruiz Herrera (Student Coach) \
+Julia van der Kris \
+Griet Beyens \
+Thu Pham\
+Senne Bels \
+Niamh Byl \
+Lenny Bontenakel&#x20;
 
 ### Specific councillors
 
-Names of councillors
+Aad Versteden
 
 ## Logo's
 
