@@ -34,7 +34,7 @@ Example:
 
 ### **Discord Channel**
 
-\#name-of-channel
+\#osoc-comms
 
 ## File storage
 

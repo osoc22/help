@@ -96,19 +96,20 @@ _For collaboration & storing files._&#x20;
 
 #### Lead
 
-Name of coach
+Miet Claes
 
 #### Support
 
-Name of coach
+Pieterjan Dendauw
 
 ### Students
 
-Names of students
-
-### Specific councillors
-
-Names of councillors
+Fien Goeman\
+Chanel Frederix\
+Lyka Cabatay\
+Ava (Beatrice) Postelnicu\
+Alba Lopez Gonzalez\
+Raman Talwar
 
 ## Logo's
 
