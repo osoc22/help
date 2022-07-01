@@ -60,7 +60,7 @@ Example:
 
 _For collaboration & storing files._&#x20;
 
-**Link to the drive**
+{% embed url="https://drive.google.com/drive/folders/1bCuxyJBgp71PVoI5QJ7rtnaESkVIt8dY?usp=sharing" %}
 
 ## Team
 
