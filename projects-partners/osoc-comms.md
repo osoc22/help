@@ -64,5 +64,5 @@ Names of councillors
 
 ## Logo's
 
-Logo's in SVG
+![Logo osoc SVG](../.gitbook/assets/logo-osoc.svg)
 
