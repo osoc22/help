@@ -53,7 +53,7 @@ Robin Julien (On Wheels) - project coach&#x20;
 
 #### Support
 
-Pieter Vander Vennet (OpenStreetMap) - technical coach
+Peter Vander Vennet (OpenStreetMap) - technical coach
 
 ### Students
 

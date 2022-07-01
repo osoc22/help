@@ -38,10 +38,6 @@ _Your partner will give you a nice introduction as well on the first partner mee
 
 ### GitHub
 
-In progress!
-
-Example:
-
 * Repository: [https://github.com/osoc22/project-vanhout](https://github.com/osoc22/project-vanhout)
 
 ### **Discord Channel**
