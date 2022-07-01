@@ -28,13 +28,6 @@ Project template: [https://cloud.openknowledge.be/s/YyacAHxe28RoJgE](https://clo
 
 _Your partner will give you a nice introduction as well on the first partner meeting!_
 
-### Resources
-
-* Tooling
-* Code languages
-* Style components
-* ...
-
 ### GitHub
 
 * **Team:** [https://github.com/orgs/osoc22/teams/project-inspector-widget](https://github.com/orgs/osoc22/teams/project-inspector-widget)

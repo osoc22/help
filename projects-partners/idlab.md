@@ -33,7 +33,7 @@ Example:
 
 ### **Discord Channel**
 
-\#name-of-channel
+\#powerful-personal-data
 
 ## File storage
 
