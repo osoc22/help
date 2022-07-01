@@ -34,7 +34,7 @@ Everyone is on the server! If you want someone to join, give Miet a heads up �
 
 ## **Be there on Monday at 09:00 **_**sharp**_
 
-We will welcome you at the front door of the [WTC III building](https://goo.gl/maps/Tetrh2h7FNSnwj3PA) between 08:30 and 09:00 on Monday 4 July. At 9:00 _sharp_ we’ll start with our opening presentation.
+We will welcome you at the front door of the [WTC III building](https://www.openstreetmap.org/node/3964305614#map=19/50.86078/4.35616) between 08:30 and 09:00 on Monday 4 July. At 9:00 _sharp_ we’ll start with our opening presentation.
 
 The first day is mainly an introduction day to get to know your teammates, coach, project and other teams. Many of you are new to open summer of code and that makes it super exciting!
 
@@ -48,7 +48,7 @@ TODO
 
 **Tell your friends and family to block their agenda on Thursday 28 July (13:00 to 16:00).**
 
-On the last day of #osoc22, we’re going to present our projects to the general public! Our Demo Day will take in [Herman Teirlinck Building](https://goo.gl/maps/8PK52rwzRdPebP8F8) and online via live streaming. Everyone is welcome!
+On the last day of #osoc22, we’re going to present our projects to the general public! Our Demo Day will take in [Herman Teirlinck Building](https://www.openstreetmap.org/way/444059131) and online via live streaming. Everyone is welcome!
 
 {% hint style="info" %}
 TODO
