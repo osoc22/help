@@ -43,6 +43,8 @@ _For collaboration & storing files._&#x20;
 
 **Figma file:** [https://www.figma.com/file/y8D1ENcD9EpBlFcSJgXCc1/On-Wheels-app?node-id=802%3A378](https://www.figma.com/file/y8D1ENcD9EpBlFcSJgXCc1/On-Wheels-app?node-id=802%3A378)
 
+{% embed url="https://drive.google.com/drive/folders/1ACHsU5UwZvbsA1izgRwzTSSFEw4zQcrG?usp=sharing" %}
+
 ## Team
 
 ### Coaches
@@ -53,7 +55,7 @@ Robin Julien (On Wheels) - project coach&#x20;
 
 #### Support
 
-Peter Vander Vennet (OpenStreetMap) - technical coach
+Pieter Vander Vennet (OpenStreetMap) - technical coach
 
 ### Students
 
@@ -79,5 +81,5 @@ Bart Hanssens (BOSA)
 
 ![Logo iO Digital SVG](../.gitbook/assets/logo-iO.svg)
 
-![Logo OnWheels SVG](../.gitbook/assets/logo-onwheels.svg)
+![Logo OnWheels Vertical](../.gitbook/assets/Logo\_On\_Wheels-18.svg)
 

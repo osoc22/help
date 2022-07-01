@@ -64,9 +64,7 @@ _Your partners will give you a nice introduction as well on the first partner me
 
 _For collaboration & storing files._&#x20;
 
-**Link to the drive**
-
-TBD
+{% embed url="https://drive.google.com/drive/folders/1rb3oaIVU9iHkVOaW_oHK6w84JRqH0VR0?usp=sharing" %}
 
 ## Team
 

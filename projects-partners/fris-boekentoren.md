@@ -16,14 +16,6 @@ Project template: [https://cloud.openknowledge.be/s/LjxNdNiKneWLoLi](https://clo
 
 _Your partner will give you a nice introduction as well on the first partner meeting!_
 
-### Resources
-
-* About the partner
-* Tooling
-* Code languages
-* Style components
-* ...
-
 #### The data
 
 {% hint style="info" %}
@@ -90,13 +82,13 @@ Example:
 
 ### **Discord Channel**
 
-\#name-of-channel
+\#knowledge-impact
 
 ## File storage
 
 _For collaboration & storing files._&#x20;
 
-**Link to the drive**
+{% embed url="https://drive.google.com/drive/folders/1Hir5t1JoNtt2zFjNLWO9PzF6zjGBnhCW?usp=sharing" %}
 
 ## Team
 
