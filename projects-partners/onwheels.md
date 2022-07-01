@@ -43,6 +43,8 @@ _For collaboration & storing files._&#x20;
 
 **Figma file:** [https://www.figma.com/file/y8D1ENcD9EpBlFcSJgXCc1/On-Wheels-app?node-id=802%3A378](https://www.figma.com/file/y8D1ENcD9EpBlFcSJgXCc1/On-Wheels-app?node-id=802%3A378)
 
+[https://drive.google.com/drive/folders/1m10C6kNNAh6XvaNOVhdFGuVh4VibfL2\_?usp=sharing](https://drive.google.com/drive/folders/1m10C6kNNAh6XvaNOVhdFGuVh4VibfL2\_?usp=sharing)
+
 ## Team
 
 ### Coaches
@@ -53,7 +55,7 @@ Robin Julien (On Wheels) - project coach&#x20;
 
 #### Support
 
-Peter Vander Vennet (OpenStreetMap) - technical coach
+Pieter Vander Vennet (OpenStreetMap) - technical coach
 
 ### Students
 
