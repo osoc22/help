@@ -1,12 +1,15 @@
 ---
-description: A tracker
+description: >-
+  Document a good time. Make osoc attractive to future students, partners and
+  coaches!
 ---
 
-# Osoc comms team
+# Communications & Branding
 
 ## Short Description \[in progress]
 
-Make osoc and its partners _shine._
+Make osoc and its partners _shine._\
+__
 
 ## Project
 

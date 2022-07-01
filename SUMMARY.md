@@ -41,6 +41,6 @@
 * [BOSA & iO Digital 4: Government Procedure Builder](projects-partners/procedure-builder.md)
 * [IDLab: Powerful Personal Data](projects-partners/idlab.md)
 * [NCCN - Track & Trace](projects-partners/nccn.md)
-* [Osoc comms team](projects-partners/osoc-comms.md)
+* [Communications & Branding](projects-partners/osoc-comms.md)
 * [EWI FRIS – UGent Library](projects-partners/fris-boekentoren.md)
 * [CIRCL Vanhout](projects-partners/CIRCL-Vanhout.md)
