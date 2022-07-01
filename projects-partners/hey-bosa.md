@@ -68,5 +68,6 @@ Bert Jehoul (BOSA)
 
 ## Logo's
 
-Logo's in SVG
+![Logo BOSA SVG](<../.gitbook/assets/logo-bosa (2).svg>)
 
+![Logo iO Digital SVG](<../.gitbook/assets/logo-iO (3).svg>)

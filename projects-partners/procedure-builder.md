@@ -96,5 +96,6 @@ iO Digital counselors: Maxime Van der Aa (week 1), Tim Wouters (week 2-4)
 
 ## Logo's
 
-Logo's in SVG, _to add_.
+![Logo iO Digital SVG](<../.gitbook/assets/logo-iO (1).svg>)
 
+![Logo BOSA SVG](../.gitbook/assets/logo-bosa.svg)

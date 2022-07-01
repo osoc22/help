@@ -77,7 +77,7 @@ Bart Hanssens (BOSA)
 
 ## Logo's
 
-![BOSA logo SVG](../.gitbook/assets/logo-bosa.svg)
+![BOSA logo SVG](<../.gitbook/assets/logo-bosa (1).svg>)
 
 ![Logo iO Digital SVG](../.gitbook/assets/logo-iO.svg)
 
