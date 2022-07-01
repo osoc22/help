@@ -63,5 +63,5 @@ Names of councillors
 
 ## Logo's
 
-Logo's in SVG
+![IDLab Logo SVG](../.gitbook/assets/logo-idlab.svg)
 
