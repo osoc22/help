@@ -48,7 +48,7 @@ _Your partner will give you a nice introduction as well on the first partner mee
 
 _For collaboration & storing files._&#x20;
 
-**Link to the drive**
+{% embed url="https://drive.google.com/drive/folders/1M6877ObCifem_1JHmtWrl7h3rBKOKg-w?usp=sharing" %}
 
 ## Team
 
