@@ -22,8 +22,6 @@ _Your partner will give you a nice introduction as well on the first partner mee
 ### biblio.ugent.be
 
 Data dump download & API: [https://biblio.ugent.be/doc/api#dumps](https://biblio.ugent.be/doc/api#dumps)
-
-(todo: add usage statistics: monthly/ daily)
 {% endhint %}
 
 {% hint style="info" %}
