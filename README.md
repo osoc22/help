@@ -64,14 +64,14 @@ On the last day of #osoc22, we’re going to present our projects to the general
 ## Got Lost, have Questions?
 
 * **Team Questions** – head over to [**projects**](projects-partners/projects-partners-overview.md) and see what the name of your team is, where they hang out in Discord and ask your coach what's up!
+* **Organisational and administrative questions**, contact Lotte on Discord **`Lotte#8285`**, or mail [**info@osoc.be**](mailto:info@osoc.be)****
 * Design, development, mapping, or other specific questions, go to the **H E L P** section in Discord & ask your question in one of the respective channels!
   * **`#design`**, **`#development`**, **`#mapping`**, ...&#x20;
   * For specific design questions, contact Niels on Discord **`Niels#0264`**
   * For technical support while deploying, read this [**deployment support overview**](https://github.com/osoc22/technical-support)**.** Clément will help you here!\
 
-* **Coaching questions**, go to the **`#coaches-councillors`** channel on Discord or contact Miet on Discord **`Miet#7556`**.\
+* **Coaching questions**, go to the **`#coaches` ** channel on Discord and ask Miet `Miet#7556` or the ** `#student-coaches`** channel on Discord and ask Anastasia `anastasia.dv#9955`.\
 
-* **Organisational and administrative questions**, contact Lotte on Discord **`Lotte#8285`**, or mail [**info@osoc.be**](mailto:info@osoc.be)****
 
 {% hint style="info" %}
 🚧 This wiki is _always_ under construction — if something is missing or wrong, please contact us at info@osoc.be; and we'll make sure to fix it. 🚧
