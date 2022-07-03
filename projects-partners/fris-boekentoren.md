@@ -22,6 +22,16 @@ _Your partner will give you a nice introduction as well on the first partner mee
 ### biblio.ugent.be
 
 Data dump download & API: [https://biblio.ugent.be/doc/api#dumps](https://biblio.ugent.be/doc/api#dumps)
+
+Usage statistics: [https://drive.google.com/drive/folders/1QJaQTqBH6B0cTRow2AWTF84ZjNTuntU3](https://drive.google.com/drive/folders/1QJaQTqBH6B0cTRow2AWTF84ZjNTuntU3)
+
+Log files: [https://drive.google.com/drive/folders/1Dkl63Q20ia2D67WtNvJZ1SoG7yaOYDsT](https://drive.google.com/drive/folders/1Dkl63Q20ia2D67WtNvJZ1SoG7yaOYDsT)
+{% endhint %}
+
+{% hint style="info" %}
+### FRIS
+
+Datasets: [https://drive.google.com/drive/folders/1Cewmpak2JgVDFlBifaryfEhykYb8Qf-M](https://drive.google.com/drive/folders/1Cewmpak2JgVDFlBifaryfEhykYb8Qf-M)
 {% endhint %}
 
 {% hint style="info" %}
