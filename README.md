@@ -35,7 +35,7 @@ We will welcome you at the front door of the [WTC III building](https://www.open
 
 The first day is mainly an introduction day to get to know your teammates, coach, project and other teams. Many of you are new to open summer of code and that makes it super exciting!
 
-Look at the [**calendar**](calendar-for-osoc22-belgium/) to discover what we'll be doing in the coming weeks.\
+Look at the [**calendar**](calendar/) to discover what we'll be doing in the coming weeks.\
 
 
 ### What do I do when I'm ill?
