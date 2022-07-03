@@ -31,7 +31,7 @@ _Your partner will give you a nice introduction as well on the first partner mee
     The [Open Knowledge Belgium](http://openknowledge.be) webside\
     The [Open Knowledge international](https://okfn.org) website
 * _Style components_\
-  [FIGMA](https://www.figma.com/file/94fo7Pl97dmlQxPv4UJkDV/Design-Project-socials-\(Copy\)) #osoc22
+  [FIGMA](https://www.figma.com/file/94fo7Pl97dmlQxPv4UJkDV/Design-Project-socials-\(Copy\)) #osoc21
 * [Partner package ](https://cloud.openknowledge.be/s/BGmKK3GGZSkdGQM)for 2022
 * [Partner deck](https://cloud.openknowledge.be/s/4t7kHQ9kzkqAMwz) for 2022
 
