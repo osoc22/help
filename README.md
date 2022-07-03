@@ -40,17 +40,17 @@ Look at the [**calendar**](calendar-for-osoc22-belgium/) to discover what we'll 
 
 ### What do I do when I'm ill?
 
-**Stay home.** It happens to the best of us. First of all, inform your coach(es). The coach will make sure the word is out. Once you've recovered, **please send a sick note to** [**info@osoc.be**](mailto:info@osoc.be).
+**Stay home.** It happens to the best of us. First of all, inform your coach(es). The coach will make sure the word is out and. Once you've recovered, **please send a sick note to** [**info@osoc.be**](mailto:info@osoc.be).
 
 #### COVID-19 regulations
 
-&#x20;If you test positive for COVID-19, follow Belgian regulations (7 days of quarantine).
+If you test positive for COVID-19, follow Belgian regulations (7 days of quarantine).
 
 At time of writing, they allow gatherings, but still encourage working from home. You are not required to wear a mask, but it is recommended when it gets crowded. We will make sure the offices are ventilated.
 
 {% embed url="https://www.info-coronavirus.be/en/faq/" %}
 
-This is why we have a _blended_ edition, where we see each other on important moments but work from home whenever we can.
+This is why we have a _blended_ edition, where we see each other on important moments but work from home whenever we can. If you're in quarantine but not ill, we make sure you can follow along from home.
 
 ## **Invite Your Friends to the Demo Day**
 
