@@ -12,10 +12,7 @@ description: >-
 ![You made it, we're so happy you are here!](<.gitbook/assets/Screenshot 2020-06-18 at 14.41.43.png>)
 
 {% hint style="success" %}
-We want this to be the best summer job _ever_ for you. And we'll do our utter best to make that happen. Visit our [**code of conduct**](https://help.osoc.be/global/code-of-conduct) to see what's at our core to make this happen – and what [**best practices**](https://help.osoc.be/global/way-of-work) we have, also for [remote work](https://help.osoc.be/global/way-of-work/working-together-in-a-remote-setting).
-
-\
-We follow Belgian government regulations for COVID.
+We want this to be the best summer job _ever_ for you. And we'll do our utter best to make that happen. Visit our [**code of conduct**](https://help.osoc.be/global/code-of-conduct) to see what's at our core to make this happen – and what [**best practices**](https://help.osoc.be/global/way-of-work) we have, also for [**remote work**](https://help.osoc.be/global/way-of-work/working-together-in-a-remote-setting).
 {% endhint %}
 
 ## "What project will I be building this year?"
