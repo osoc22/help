@@ -79,6 +79,19 @@ Example exploration University of Ghent: [https://www.altmetric.com/explorer/hig
 Example exploration of Patrick Hochstenbach [https://www.altmetric.com/explorer/highlights?author\_id%5B%5D=ghent%3Aperson%3A801001101817](https://www.altmetric.com/explorer/highlights?author\_id%5B%5D=ghent%3Aperson%3A801001101817)
 {% endhint %}
 
+{% hint style="info" %}
+## ResearchGate
+
+_**Discover scientific knowledge and stay connected to the world of science.**_
+
+_"With 135+ million publication pages, 20+ million researchers and 1+ million questions, this is where everyone can access science."_
+
+Example exploration University of Ghent:\
+[https://www.researchgate.net/institution/Ghent\_University](https://www.researchgate.net/institution/Ghent\_University)
+
+Example exploration of Patrick Hochstenbach [https://www.researchgate.net/profile/Patrick-Hochstenbach](https://www.researchgate.net/profile/Patrick-Hochstenbach)
+{% endhint %}
+
 
 
 ### GitHub
