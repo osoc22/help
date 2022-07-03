@@ -100,8 +100,8 @@ Example exploration of Patrick Hochstenbach [https://www.researchgate.net/profil
 
 Example:
 
-* Team: [https://github.com/orgs/osoc21/teams/the-floof-fighters](https://github.com/orgs/osoc21/teams/the-floof-fighters)
-* Repository: [https://github.com/osoc21/RoadBase](https://github.com/osoc21/RoadBase)
+* Team: [https://github.com/orgs/osoc22/teams/project-the-power-of-sharing-knowledge](https://github.com/orgs/osoc22/teams/project-the-power-of-sharing-knowledge)
+* Repository: [https://github.com/osoc22/project-the-power-of-sharing-knowledge](https://github.com/osoc22/project-the-power-of-sharing-knowledge)&#x20;
 
 ### **Discord Channel**
 
