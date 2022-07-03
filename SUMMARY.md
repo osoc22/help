@@ -32,7 +32,7 @@
 
 ## Projects & Partners <a href="#projects-partners" id="projects-partners"></a>
 
-* [Projects & Partners overview](projects-partners/projects-partners-overview.md)
+* [Projects & Partners overview](projects-partners/projects-partners.md)
 * [Agentschap Binnenlands Bestuur (ABB)](projects-partners/abb.md)
 * [BOSA , iO Digital & On Wheels: Making Accessibility Accessible](projects-partners/onwheels.md)
 * [BOSA & iO Digital 2: Inspector Widget](projects-partners/inspector-widget.md)

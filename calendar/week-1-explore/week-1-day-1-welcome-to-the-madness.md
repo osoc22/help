@@ -33,7 +33,7 @@ Welcome to open summer of code! You'll get an introduction about what osoc is ab
 
 ### What are we going to do?
 
-* Study the briefing – You can find the briefing in your [**project site**](../../projects-partners/projects-partners-overview.md)**.**
+* Study the briefing – You can find the briefing in your [**project site**](../../projects-partners/projects-partners.md)**.**
 * Define the goal
 *   Compose list of questions for partner/client
 

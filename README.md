@@ -17,7 +17,7 @@ We want this to be the best summer job _ever_ for you. And we'll do our utter be
 
 ## "What project will I be building this year?"
 
-Find your name on the [**Projects & Partners overview**](projects-partners/projects-partners-overview.md) **** page and discover what you and your team will do by clicking the partner name. Get to know them on **Discord**!
+Find your name on the [**Projects & Partners overview**](projects-partners/projects-partners.md) **** page and discover what you and your team will do by clicking the partner name. Get to know them on **Discord**!
 
 ## Join us on Discord, and get to know everyone ❤
 
@@ -60,7 +60,7 @@ On the last day of #osoc22, we’re going to present our projects to the general
 
 ## Got Lost, have Questions?
 
-* **Team Questions** – head over to [**projects**](projects-partners/projects-partners-overview.md) and see what the name of your team is, where they hang out in Discord and ask your coach what's up!
+* **Team Questions** – head over to [**projects**](projects-partners/projects-partners.md) and see what the name of your team is, where they hang out in Discord and ask your coach what's up!
 * **Organisational and administrative questions**, contact Lotte on Discord **`Lotte#8285`**, or mail [**info@osoc.be**](mailto:info@osoc.be)****
 * Design, development, mapping, or other specific questions, go to the **H E L P** section in Discord & ask your question in one of the respective channels!
   * **`#design`**, **`#development`**, **`#mapping`**, ...&#x20;

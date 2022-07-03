@@ -33,7 +33,7 @@ Today is the Final Call for Deployment Help. Ask Clément if you need it; Tuesda
 
 ## Deliver Like a Pro
 
-Find your delivery checklist in your [**project page**](../../projects-partners/projects-partners-overview.md).
+Find your delivery checklist in your [**project page**](../../projects-partners/projects-partners.md).
 
 Use this guide to deliver like a pro:
 
