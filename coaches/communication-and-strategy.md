@@ -6,6 +6,11 @@ description: >-
 
 # 🦄 Communication & Strategy
 
+{% hint style="warning" %}
+🚧 **Under construction** 🚧 \
+You'll discover more about your coaches, councillors and student coaches in week 2 🥳
+{% endhint %}
+
 ## Coaches
 
 {% hint style="success" %}

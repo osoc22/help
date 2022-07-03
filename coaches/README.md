@@ -1,5 +1,10 @@
 # Coaches, Student Coaches & Councillors
 
+{% hint style="warning" %}
+🚧 **Under construction** 🚧 \
+You'll discover more about your coaches, councillors and student coaches in week 2 🥳
+{% endhint %}
+
 ## Our skills and expertise:
 
 * 👩‍🎤 [Visual](visual.md)\
