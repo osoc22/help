@@ -13,17 +13,20 @@ __
 
 ## Project
 
-Project template: to be added by Lotte, she's working on it 😇
+Project template: [https://cloud.openknowledge.be/s/mT42qn9ykfKqezp](https://cloud.openknowledge.be/s/mT42qn9ykfKqezp)
 
 _Your partner will give you a nice introduction as well on the first partner meeting!_
 
 ### Resources
 
-* About the partner
-* Tooling
-* Code languages
-* Style components
-* ...
+*   _About the partner_\
+    Open summer of code is a 4-week summer programme during which innovative open source projects are made by incredibly motivated students, coaches & organisations.&#x20;
+
+    Osoc is powered by Open Knowledge Belgium, a non-profit supporting a world where knowledge creates power for the many, not the few.
+* _Style components_\
+  [FIGMA](https://www.figma.com/file/94fo7Pl97dmlQxPv4UJkDV/Design-Project-socials-\(Copy\)) #osoc22
+* [Partner package ](https://cloud.openknowledge.be/s/BGmKK3GGZSkdGQM)for 2022
+* [Partner deck](https://cloud.openknowledge.be/s/4t7kHQ9kzkqAMwz) for 2022
 
 ### GitHub
 
