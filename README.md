@@ -64,15 +64,10 @@ On the last day of #osoc22, we’re going to present our projects to the general
 ## Got Lost, have Questions?
 
 * **Team Questions** – head over to [**projects**](projects-partners/projects-partners-overview.md) and see what the name of your team is, where they hang out in Discord and ask your coach what's up!
-
-{% hint style="info" %}
-TODO: Support with Clément.
-{% endhint %}
-
 * Design, development, mapping, or other specific questions, go to the **H E L P** section in Discord & ask your question in one of the respective channels!
   * **`#design`**, **`#development`**, **`#mapping`**, ...&#x20;
   * For specific design questions, contact Niels on Discord **`Niels#0264`**
-  * For technical support, read this [**technical support overview**](https://github.com/osoc21/technical-support) by Clément!\
+  * For technical support while deploying, read this [**deployment support overview**](https://github.com/osoc22/technical-support)**.** Clément will help you here!\
 
 * **Coaching questions**, go to the **`#coaches-councillors`** channel on Discord or contact Miet on Discord **`Miet#7556`**.\
 
