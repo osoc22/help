@@ -29,7 +29,7 @@ For this partly remote edition, we use Discord. Come say hi, we'd love to welcom
 After you’ve created an account, please carefully read Miet's how-to-get-started message in the `#welcome` channel. All of you will be tagged in the specific Discord channel for your project.
 
 {% hint style="success" %}
-Everyone is on the server! If you want someone to join, give Miet a heads up 😘
+Join our server: [https://discord.gg/84U6yvvU](https://discord.gg/84U6yvvU) 😘
 {% endhint %}
 
 ## **Be there on Monday at 09:00 **_**sharp**_
