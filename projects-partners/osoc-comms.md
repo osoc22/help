@@ -6,10 +6,14 @@ description: >-
 
 # Communications & Branding
 
-## Short Description \[in progress]
+## Short Description
 
-Make osoc and its partners _shine._\
-__
+Make osoc and its partners ✨ _shin_e ✨ ! \
+__Show potential future students, partners and coaches why they should participate in open summer of code.\
+\
+What the comms team is responsible for? 💪\
+You'll be doing internal communications, write project Highlights, take photos of all the teams and students, make buzz towards the outside world during #osoc22 (social media, blog, videos, photos), do the promo for the demo day. \
+In addition to this, you are encouraged to rethink and set up a new branding strategy for open summer of code 2023 and think of new ways to promote osoc to participants (students, coaches, partners, sponsors) next year.
 
 ## Project
 
@@ -22,7 +26,10 @@ _Your partner will give you a nice introduction as well on the first partner mee
 *   _About the partner_\
     Open summer of code is a 4-week summer programme during which innovative open source projects are made by incredibly motivated students, coaches & organisations.&#x20;
 
-    Osoc is powered by Open Knowledge Belgium, a non-profit supporting a world where knowledge creates power for the many, not the few.
+    Osoc is powered by Open Knowledge Belgium, a non-profit supporting a world where knowledge creates power for the many, not the few.\
+    The osoc [website](http://osoc.be)\
+    The [Open Knowledge Belgium](http://openknowledge.be) webside\
+    The [Open Knowledge international](https://okfn.org) website
 * _Style components_\
   [FIGMA](https://www.figma.com/file/94fo7Pl97dmlQxPv4UJkDV/Design-Project-socials-\(Copy\)) #osoc22
 * [Partner package ](https://cloud.openknowledge.be/s/BGmKK3GGZSkdGQM)for 2022
