@@ -14,6 +14,8 @@ BOSA – Simon Bolivarlaan 30, bus 1 WTC III 1000 Brussels – a 5 minute walk f
 
 {% embed url="https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=50.86037,4.36076;50.86072,4.35612" %}
 
+Be there on Mondays and Thursdays – for the first two weeks.
+
 **Introduction**\
 **– for everyone**
 ------------------
@@ -37,11 +39,17 @@ Welcome to open summer of code! You'll get an introduction about what osoc is ab
 
     _-> Compose it together in the folder of your team under meeting minutes:_ [_https://drive.google.com/drive/folders/10hWr4Tc4CnIka0XqHZ1FmJeOKryfCHKW?usp=sharing_](https://drive.google.com/drive/folders/10hWr4Tc4CnIka0XqHZ1FmJeOKryfCHKW?usp=sharing)__
 
-## \[optional talk] Dev 101 – Intro to Dev 001 by Chris / Dev for non dev / w.. even is dev by Chris
+## Pick your talk
+
+These talks will be live at BOSA. Meeting room in the calendar!
+
+### \[optional talk] Dev 101 – Intro to Dev 001 by Chris / Dev for non dev / w.. even is dev by Chris
 
 Chris, 2-time student alumni and now second time coach shows the non-devs what devving really is. Want to expand your 🧠, extend your [**t-profile**](https://en.wikipedia.org/wiki/T-shaped\_skills) and understand your teammates better? Grab lunch and attend this talk!
 
-This talk will be live at BOSA.
+### \[optional talk] Git workshop by Clément
+
+Working together on code and products can be hard. Git and GitHub make that easier! Clément will be happy to help you out.
 
 ## Partner meetings
 
