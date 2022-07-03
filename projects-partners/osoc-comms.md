@@ -51,19 +51,20 @@ _For collaboration & storing files._&#x20;
 
 #### Lead
 
-Name of coach
+Niels Dewelde
 
 #### Support
 
-Name of coach
+Lotte Goyens
 
 ### Students
 
-Names of students
+Britt Vanzegbroeck (student coach)\
+Guilherme Chuna
 
 ### Specific councillors
 
-Names of councillors
+Miet Claes
 
 ## Logo's
 
