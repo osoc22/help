@@ -20,7 +20,7 @@ We follow Belgian government regulations for COVID.
 
 ## "What project will I be building this year?"
 
-Find your name on the [**Projects & Partners overview**](projects-partners/projects-partners-overview.md) **** page and discover what you and your team will do by clicking the partner name. Get to know them on [**Discord**](./#join-us-on-discord-and-get-to-know-everyone)!
+Find your name on the [**Projects & Partners overview**](projects-partners/projects-partners-overview.md) **** page and discover what you and your team will do by clicking the partner name. Get to know them on **Discord**!
 
 ## Join us on Discord, and get to know everyone ❤
 
@@ -38,21 +38,28 @@ We will welcome you at the front door of the [WTC III building](https://www.open
 
 The first day is mainly an introduction day to get to know your teammates, coach, project and other teams. Many of you are new to open summer of code and that makes it super exciting!
 
-Look at the [**calendar**](calendar-for-osoc22-belgium/) to discover what we'll be doing in the coming weeks.
+Look at the [**calendar**](calendar-for-osoc22-belgium/) to discover what we'll be doing in the coming weeks.\
 
-{% hint style="info" %}
-TODO
-{% endhint %}
+
+### What do I do when I'm ill?
+
+**Stay home.** It happens to the best of us. First of all, inform your coach(es). The coach will make sure the word is out. Once you've recovered, **please send a sick note to** [**info@osoc.be**](mailto:info@osoc.be).
+
+#### COVID-19 regulations
+
+&#x20;If you test positive for COVID-19, follow Belgian regulations (7 days of quarantine).
+
+At time of writing, they allow gatherings, but still encourage working from home. You are not required to wear a mask, but it is recommended when it gets crowded. We will make sure the offices are ventilated.
+
+{% embed url="https://www.info-coronavirus.be/en/faq/" %}
+
+This is why we have a _blended_ edition, where we see each other on important moments but work from home whenever we can.
 
 ## **Invite Your Friends to the Demo Day**
 
 **Tell your friends and family to block their agenda on Thursday 28 July (13:00 to 16:00).**
 
 On the last day of #osoc22, we’re going to present our projects to the general public! Our Demo Day will take in [Herman Teirlinck Building](https://www.openstreetmap.org/way/444059131) and online via live streaming. Everyone is welcome!
-
-{% hint style="info" %}
-TODO
-{% endhint %}
 
 ## Got Lost, have Questions?
 
