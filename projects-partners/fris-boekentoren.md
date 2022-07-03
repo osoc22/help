@@ -31,6 +31,8 @@ Log files: [https://drive.google.com/drive/folders/1Dkl63Q20ia2D67WtNvJZ1SoG7yaO
 {% hint style="info" %}
 ### FRIS
 
+SOAP-services: [https://frisr4.researchportal.be/ws](https://frisr4.researchportal.be/ws)
+
 Datasets: [https://drive.google.com/drive/folders/1Cewmpak2JgVDFlBifaryfEhykYb8Qf-M](https://drive.google.com/drive/folders/1Cewmpak2JgVDFlBifaryfEhykYb8Qf-M)
 {% endhint %}
 
