@@ -76,3 +76,8 @@ Tutorial: how to do a client meeting.
 Scroll down to see more days, scroll to the right to see more teams and their links!
 
 {% embed url="https://docs.google.com/spreadsheets/d/1NC3uATQqpqzZiJf1yiymdm4IPLrldd2_c541jWOb-wA/edit?usp=sharing" %}
+
+## Prepare for the _☄️_ _H A C K A T H O N ☄️_
+
+The hackathon starts tomorrow... What will your team build in the coming two days?\
+Check out [**day 2**](week-1-day-2-meet-the-client-and-start-hacking.md) for more details 🥳
