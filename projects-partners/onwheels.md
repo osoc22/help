@@ -41,7 +41,7 @@ _Your partner will give you a nice introduction as well on the first partner mee
 
 _For collaboration & storing files._&#x20;
 
-**Figma file:** [https://www.figma.com/file/y8D1ENcD9EpBlFcSJgXCc1/On-Wheels-app?node-id=802%3A378](https://www.figma.com/file/y8D1ENcD9EpBlFcSJgXCc1/On-Wheels-app?node-id=802%3A378)
+**Figma file:** [https://www.figma.com/file/y8D1ENcD9EpBlFcSJgXCc1/On-Wheels-app?node-id=0%3A1](https://www.figma.com/file/y8D1ENcD9EpBlFcSJgXCc1/On-Wheels-app?node-id=0%3A1)
 
 {% embed url="https://drive.google.com/drive/folders/1ACHsU5UwZvbsA1izgRwzTSSFEw4zQcrG?usp=sharing" %}
 
