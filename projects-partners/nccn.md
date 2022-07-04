@@ -28,22 +28,20 @@ _Your partner will give you a nice introduction as well on the first partner mee
 * Tracker:
   * [Teltonika TMT250](https://teltonika-mobility.com/product/mini-tracker-easy/)
   * Samsung A41
-*   Technologies:
-
-    * IoT platform:
-      * [Azure Iot Hub](https://azure.microsoft.com/en-us/services/iot-hub/#overview)
-      * [flespi](https://flespi.com/)
-      * Other ([https://teltonika-networks.com/products/iot-platforms/](https://teltonika-networks.com/products/iot-platforms/)) ?
-    * Back-end:&#x20;
-      * Containerization: [Docker](https://www.docker.com/)
-      * Language: [PHP](https://www.php.net/) (recommendation)
-      * Technology: Rest or GraphQL
-    * Front-end:
-      * Language: [TypeScript](https://www.typescriptlang.org/)
-      * Map: [OpenLayers](https://openlayers.org/)
-      * Framework: [Angular](https://angular.io/) (recommendation)
-
-
+* Technologies:
+  * IoT platform:
+    * [Azure Iot Hub](https://azure.microsoft.com/en-us/services/iot-hub/#overview)
+    * [flespi](https://flespi.com/)
+    * Other ([https://teltonika-networks.com/products/iot-platforms/](https://teltonika-networks.com/products/iot-platforms/)) ?
+  * Back-end:&#x20;
+    * Containerization: [Docker](https://www.docker.com/)
+    * Language: [PHP](https://www.php.net/) (recommendation)
+    * Technology: Rest or GraphQL
+  * Front-end:
+    * Language: [TypeScript](https://www.typescriptlang.org/)
+    * Map: [OpenLayers](https://openlayers.org/)
+    * Framework: [Angular](https://angular.io/) (recommendation)
+* Figma: [https://www.figma.com/team\_invite/redeem/m4PHlIyinorBZqmEGv4jGQ](https://www.figma.com/team\_invite/redeem/m4PHlIyinorBZqmEGv4jGQ)
 
 ### GitHub
 
