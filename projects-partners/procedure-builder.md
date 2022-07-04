@@ -14,7 +14,7 @@ The web tool should make it easier for adminstrators to digitize paper processes
 
 ## Project
 
-**Project template:** [https://cloud.openknowledge.be/s/pj7Hao6sWSkMHHt](https://cloud.openknowledge.be/s/pj7Hao6sWSkMHHt)
+**Project template:** [https://cloud.openknowledge.be/s/eCP8TyzPSY9FCTr](https://cloud.openknowledge.be/s/eCP8TyzPSY9FCTr)
 
 **About the partners:**
 
