@@ -10,7 +10,7 @@ Making accessibility data available for everyone to use and reuse. How can we ad
 
 ## Project
 
-**Project template:** [https://cloud.openknowledge.be/s/i6dL5MJFDrtrerS](https://cloud.openknowledge.be/s/i6dL5MJFDrtrerS)
+**Project template:** [https://cloud.openknowledge.be/s/YdKdgSGjzniZNLA](https://cloud.openknowledge.be/s/YdKdgSGjzniZNLA)
 
 **About the partners:**
 
