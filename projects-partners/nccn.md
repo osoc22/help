@@ -83,5 +83,4 @@ Meg Vandezande
 
 ![NCCN logo](../.gitbook/assets/Symbool\_kleur\_transparant.png)
 
-![Paragon logo](<../.gitbook/assets/paragon-logo (1).svg>)
-
+![Paragon project logo](../.gitbook/assets/logo-par-1.svg)
