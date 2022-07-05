@@ -47,6 +47,10 @@ _Your partner will give you a nice introduction as well on the first partner mee
     * properties: key-value pairs describing some extra properties (= type specific)
       * for the "standard blocks" like staircase, toilet, bathroom, "svg" is one of the properties
     * stroke & fill: css-value for the colouring of the simplified 2D visualisation
+* There's also some extra features in this model (for testing purposes):&#x20;
+  * [https://circl.be/nieuw/tool/model.php?project=1\&labels](https://circl.be/nieuw/tool/model.php?project=1\&labels) which shows the element types
+  * [https://circl.be/nieuw/tool/model.php?project=1\&nosliders](https://circl.be/nieuw/tool/model.php?project=1\&nosliders) which shows all variants for a building next/under eachother instead of sliders
+  * [https://circl.be/nieuw/tool/model.php?project=1,2,3](https://circl.be/nieuw/tool/model.php?project=1,2,3) which shows multiple projects
 * [https://circl.be/nieuw/tool/project.php?project=1](https://circl.be/nieuw/tool/project.php?project=1) is similar, but generates PDF drawings based on the same input
 * [https://apps.autodesk.com/RVT/en/Detail/Index?id=7087667796484471162\&appLang=en\&os=Win64](https://apps.autodesk.com/RVT/en/Detail/Index?id=7087667796484471162\&appLang=en\&os=Win64) (Revit naar obj converting)
 
