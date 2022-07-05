@@ -32,8 +32,22 @@ _Your partner will give you a nice introduction as well on the first partner mee
 #### Context
 
 * [https://circl.be/nieuw/tool/model.php](https://circl.be/nieuw/tool/model.php)
-* [https://circl.be/nieuw/tool/model.php?project=1](https://circl.be/nieuw/tool/model.php?project=1)
-* [https://circl.be/nieuw/tool/model.php?project=1\&json](https://circl.be/nieuw/tool/model.php?project=1\&json)
+* [https://circl.be/nieuw/tool/model.php?project=1](https://circl.be/nieuw/tool/model.php?project=1) for simplified 2D visualisation
+* [https://circl.be/nieuw/tool/model.php?project=1\&json](https://circl.be/nieuw/tool/model.php?project=1\&json) for the JSON export which contains an array of one or multiple building variants. Each variant contains info that can be used for 3D visualisation:
+  * id: string
+  * name: string
+  * parcel: polygon = list of points (X,Y) for the plot where the building is located
+  * volumes: array of polygons with the building volume per level (0 = ground floor, 1 = 1st level...)
+  * &#x20;elements: array of building elements, each of which with
+    * type: string
+    * width, depth, height: size of the element as a "box' = all in mm
+    * posX, posY, posZ: position in absolute (X,Y,Z) coordinates of the element
+    * theta: rotation of the element in (X,Y) plane in radians
+    * points: each object is a prism, the points describe the absolute coordinates (X,Y,Z) of the planar polygon describing the prism (height = derived from the "height" value), each element is in 3D "extruded" along the Z-axis
+    * properties: key-value pairs describing some extra properties (= type specific)
+      * for the "standard blocks" like staircase, toilet, bathroom, "svg" is one of the properties
+    * stroke & fill: css-value for the colouring of the simplified 2D visualisation
+* [https://circl.be/nieuw/tool/project.php?project=1](https://circl.be/nieuw/tool/project.php?project=1) is similar, but generates PDF drawings based on the same input
 * [https://apps.autodesk.com/RVT/en/Detail/Index?id=7087667796484471162\&appLang=en\&os=Win64](https://apps.autodesk.com/RVT/en/Detail/Index?id=7087667796484471162\&appLang=en\&os=Win64) (Revit naar obj converting)
 
 ### GitHub
