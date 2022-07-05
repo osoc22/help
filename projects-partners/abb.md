@@ -51,7 +51,7 @@ Example:
 
 ## File storage
 
-_For collaboration & storing files._&#x20;
+_For collaboration & storing files. Add the root folder to your drive:_ [_https://drive.google.com/drive/folders/10hWr4Tc4CnIka0XqHZ1FmJeOKryfCHKW?usp=sharing_](https://drive.google.com/drive/folders/10hWr4Tc4CnIka0XqHZ1FmJeOKryfCHKW?usp=sharing)__
 
 {% embed url="https://drive.google.com/drive/folders/1jaR4Y6INqhLie7vYPO-Y_hufvh7AW-9Q?usp=sharing" %}
 

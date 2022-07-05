@@ -66,7 +66,9 @@ _Your partner will give you a nice introduction as well on the first partner mee
 
 _For collaboration & storing files._&#x20;
 
-**Figma workfile:** [https://www.figma.com/file/OogwCTfIKW8uOt54u9CdSU/Vanhout%2FCIRCL?node-id=0%3A1](https://www.figma.com/file/OogwCTfIKW8uOt54u9CdSU/Vanhout%2FCIRCL?node-id=0%3A1)
+**Figma workfile:** [https://www.figma.com/file/OogwCTfIKW8uOt54u9CdSU/Vanhout%2FCIRCL?node-id=0%3A1](https://www.figma.com/file/OogwCTfIKW8uOt54u9CdSU/Vanhout%2FCIRCL?node-id=0%3A1)\
+\
+_Add the root folder to your drive:_ [_https://drive.google.com/drive/folders/1Zs7i0cFohL\_K6\_1IeYi6LuQ-mrUkNDWt?usp=sharing_](https://drive.google.com/drive/folders/1Zs7i0cFohL\_K6\_1IeYi6LuQ-mrUkNDWt?usp=sharing)__
 
 {% embed url="https://drive.google.com/drive/folders/1Zs7i0cFohL_K6_1IeYi6LuQ-mrUkNDWt?usp=sharing" %}
 

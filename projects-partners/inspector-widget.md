@@ -39,7 +39,7 @@ _Your partner will give you a nice introduction as well on the first partner mee
 
 ## File storage
 
-_For collaboration & storing files._&#x20;
+_For collaboration & storing files. Add the root folder to your drive:_ [_https://drive.google.com/drive/folders/1M6877ObCifem\_1JHmtWrl7h3rBKOKg-w?usp=sharing_](https://drive.google.com/drive/folders/1M6877ObCifem\_1JHmtWrl7h3rBKOKg-w?usp=sharing)__
 
 {% embed url="https://drive.google.com/drive/folders/1M6877ObCifem_1JHmtWrl7h3rBKOKg-w?usp=sharing" %}
 
