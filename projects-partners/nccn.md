@@ -4,7 +4,7 @@ description: Nationaal Crisiscentrum / Centre de Crise National
 
 # NCCN - Track & Trace
 
-## Short Description \[in progress]
+## Short Description
 
 Developing a POC for a tracking app based on physical trackers and smartphones to allow NCCN to track useful resources (VIP, assets, ...) in their internal tools (crisis management, emergency planning, ...).
 
@@ -32,6 +32,8 @@ _Your partner will give you a nice introduction as well on the first partner mee
   * IoT platform:
     * [Azure Iot Hub](https://azure.microsoft.com/en-us/services/iot-hub/#overview)
     * [flespi](https://flespi.com/)
+      * [How to get data in your platform via flespi HTTP stream](https://flespi.com/kb/how-to-get-data-in-your-platform-via-flespi-http-stream)
+      * [How to send IoT/telematics data to Azure IoT?](https://flespi.com/kb/flespi-to-azure)
     * Other ([https://teltonika-networks.com/products/iot-platforms/](https://teltonika-networks.com/products/iot-platforms/)) ?
   * Back-end:&#x20;
     * Containerization: [Docker](https://www.docker.com/)
@@ -44,8 +46,6 @@ _Your partner will give you a nice introduction as well on the first partner mee
 * Figma: [https://www.figma.com/team\_invite/redeem/m4PHlIyinorBZqmEGv4jGQ](https://www.figma.com/team\_invite/redeem/m4PHlIyinorBZqmEGv4jGQ)
 
 ### GitHub
-
-Example:
 
 * Team: [https://github.com/orgs/osoc22/teams/project-track-trace](https://github.com/orgs/osoc22/teams/project-track-trace)
 * Repository: [https://github.com/osoc22/project-track-trace](https://github.com/osoc22/project-track-trace)
