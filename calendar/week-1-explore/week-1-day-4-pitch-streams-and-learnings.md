@@ -84,9 +84,11 @@ You have all afternoon to prep for next week. This could include:
 
 _Find your groove. Use this time to get ready to conquer the world... next week._
 
-## _Optional After Work: Drinks! 🧃🥤🍺🍹_
+## _Optional After Work_
 
-_Gather at 17:00 at the entrance._
+_Language tables! Share the languages you speak and try a new one._
+
+__
 
 ## OMG
 
