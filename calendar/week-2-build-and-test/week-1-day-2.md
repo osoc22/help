@@ -38,12 +38,12 @@ _If you build something, but nobody know how to use it, does it even exist?_
 
 How to conduct user interviews and tests: [**Conduct (Remote) Tests and Interviews with Real People**](https://help.osoc.be/global/tutorials/how-to-conduct-remote-tests-and-interviews-with-real-people)****
 
-## Pick Your Talk: Live
+## Pick Your Talk: Online
 
 We've got 2 talks for you in store today!
 
 {% hint style="info" %}
-Can't attend the talk or workshop? Don't worry! They are all optional.
+Can't attend the talk or workshop? Don't worry, they are recorded! You can watch them later with some 🍿🥤.
 {% endhint %}
 
 ### \[optional workshop 1] Sexual harassment: why react and how? by Plan International NGO
