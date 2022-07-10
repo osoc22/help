@@ -63,6 +63,12 @@ You have all afternoon to prep for next week. This could include:
 
 _Find your groove. Use this time to get ready to conquer the world... next week._
 
+## Pick your talk
+
+### \[optional workshop] Sexual harassment: why react and how? by Plan International NGO
+
+Learn how to help others and yourself! When someone is being harassed, as a bystander you do not always know what to do. Not knowing how to respond or being afraid of getting into trouble yourself are normal reactions. However, any form of action or help can make a world of difference to the victim. Join this session if you want to learn more about this topic and how to intervene.
+
 ## Omg
 
 {% hint style="success" %}
