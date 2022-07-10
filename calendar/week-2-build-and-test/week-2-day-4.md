@@ -33,6 +33,12 @@ Pitches\
 – everyone
 ----------
 
+### Introduction: Building Bridges with Bridges
+
+Ward (osoc alumni, was building Bridges at osoc, works at Slowby) Serge (Chair of International Open Recognition Alliance) & Bert (Councillor and partner, at BOSA) will present you Bridges.
+
+The Bridges project aims to improve gender equity in the STEM field by recognizing the skills of women. This to boost the amount of women in STEM education and careers.
+
 ### Watching the pitches
 
 Now is the time to discover what all teams have been up to this week, and what they all built! Give your colleagues some constructive feedback so they can do better next week.
@@ -68,6 +74,10 @@ _Find your groove. Use this time to get ready to conquer the world... next week.
 ### \[optional workshop] Sexual harassment: why react and how? by Plan International NGO
 
 Learn how to help others and yourself! When someone is being harassed, as a bystander you do not always know what to do. Not knowing how to respond or being afraid of getting into trouble yourself are normal reactions. However, any form of action or help can make a world of difference to the victim. Join this session if you want to learn more about this topic and how to intervene.
+
+## Bye BOSA!
+
+Big thanks to BOSA for being the perfect host: patient and helpful!
 
 ## Omg
 
