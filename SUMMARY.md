@@ -2,7 +2,7 @@
 
 * [#osoc22](README.md)
 * [Coaches, Student Coaches & Councillors](coaches/README.md)
-  * [👩‍🎤 Visual](coaches/visual.md)
+  * [👩‍🎤 Visual & Experience](coaches/visual.md)
   * [🦄 Communication & Strategy](coaches/communication-and-strategy.md)
   * [🦹🏽 Development](coaches/development.md)
   * [🧙🏼‍♀️Coaching](coaches/coaching.md)

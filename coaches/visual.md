@@ -2,7 +2,7 @@
 description: UI / UX / Graphic design, videography, animation
 ---
 
-# 👩‍🎤 Visual
+# 👩‍🎤 Visual & Experience
 
 {% hint style="success" %}
 **👩‍🎤 Robin Julien \[RobinJulien#9653 on Discord]**\
@@ -65,4 +65,30 @@ VSCode :) Contentful/HubSpot/Heroku/. . . . .&#x20;
 On August 1st, 2018, _right_ after oSoc18, I took my bike and cycled \~2500km to Helsinki, where I studied and where I'm still living today (except for coming back to Belgium for oSoc22).
 
 In case you're curious: [https://www.instagram.com/explore/tags/thepedalchoiceog](https://www.instagram.com/explore/tags/thepedalchoiceog)
+{% endhint %}
+
+{% hint style="success" %}
+**Bavo Lodewyckx \[Azarko#3836 on Discord]**\
+****_**Inspector widget, Hey BOSA, Procedure Builder**_\
+UX Strategist at IO
+
+**Bio**\
+🥳Make users happy 🥳
+
+I'm a UX strategy and concept designer with a background in innovation design.
+
+My guiding philosophy is to “leave things better than they were when I came.”
+
+I believe that success can only be achieved when people are invested in the solution, in a meaningful way.
+
+I execute that belief by involving users and stakeholders through every step of the design process.
+
+Designing is a process that moves past the creation of deliverables. It is a mindset that has to be adopted by everyone. I champion that adoption!\
+[azarko.com](https://www.azarko.com)
+
+**Skills**\
+****UX Design UI, Graphic, Motion, Videography, ,accessibility, copy, Storytelling, Business modelling All design technique's
+
+**Good to know**\
+There are probably only a few people who know as much about reggae as I do in this country.
 {% endhint %}
