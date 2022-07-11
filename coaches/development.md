@@ -152,3 +152,18 @@ Business Analyst at Ghent University
 **Good to know**\
 I prefer painting over programming.
 {% endhint %}
+
+{% hint style="success" %}
+**Pieter Vander Vennet \[pietervdvn#0638 on Discord]**\
+****_**OnWheels**_\
+Programmer at Anyways
+
+**Bio**\
+****Involved with OpenStreetMap, studied informatica at UGent, climbing fan [en.osm.town/web/@pietervdvn](https://en.osm.town/@pietervdvn)
+
+**Skills**\
+****Maps climbing Typescript
+
+**Good to know**\
+Coockies are my weakness! Oh, I did coach OSOC from my bed last year
+{% endhint %}
