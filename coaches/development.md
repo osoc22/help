@@ -167,3 +167,24 @@ Programmer at Anyways
 **Good to know**\
 Coockies are my weakness! Oh, I did coach OSOC from my bed last year
 {% endhint %}
+
+{% hint style="success" %}
+**Christophe Leroy \[Kyng#1717 on Discord]**\
+****_**Procedure builder, coach coach & Butterfly**_\
+frontend developer or frontend engineer I never know depends which paper you check at rock.estate
+
+**Bio**\
+You can call me Chris, Kyng or Batteman. But the important thing is you can call on me. I'll always figure out a way to help you.\
+\
+I love coaching at osoc, because it gets me out of my daily routine. It takes me back to where my front-end career started as a student developer in 2015.\
+\
+You can also ask me non-front-end related questions about good music, anime, coaching and life advice when I'm not taking care of my dog Snacky. Stay hydrated.
+
+[https://www.kyng.be](https://www.kyng.be)
+
+**Skills**\
+****Front-end, Weird lifechoices, proofreading HTML, CSS, JS (incl. React & Vue)
+
+**Good to know**\
+****Had a burnout simmering for a few months before osoc last year. It took me one week back at the job before it happened for real and had me quit relatively soon after that.
+{% endhint %}
