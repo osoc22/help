@@ -105,3 +105,34 @@ On August 1st, 2018, _right_ after oSoc18, I took my bike and cycled \~2500km to
 
 In case you're curious: [https://www.instagram.com/explore/tags/thepedalchoiceog](https://www.instagram.com/explore/tags/thepedalchoiceog)
 {% endhint %}
+
+{% hint style="success" %}
+**Jonathan Beliën \[jbelien#3989 on Discord]**\
+****_**NCCN**_\
+****Lead Developer at NCCN
+
+**Bio**\
+Open Knowledge Belgium board member ; OpenStreetMap Belgium board member ; Full stack web developer ; NCCN Lead developer ; LEGO fan ;\
+[https://jbelien.be](https://jbelien.be)
+
+**Skills**\
+****Back-end front-end, back-end, maps, database, deployment, ... PHP, TypeScript, SQL, ...
+
+**Good to know**\
+Balkans are a really beautiful region!
+{% endhint %}
+
+{% hint style="success" %}
+**Demian Dekoninck \[demian#0216 on Discord]**\
+****_**Powerful Personal Data**_\
+Software Engineer at Pexip
+
+**Bio**\
+****Hi, I'm Demian. I'm a software engineer working at Pexip. I'm currently working on the new architecture for our product. [https://www.dem.be/](https://www.dem.be/)
+
+**Skills**\
+****Back-end Front-end Node.js, TypeScript, Serverless, RabbitMQ, PostgreSQL, Docker, Kubernetes, Microservices, GraphQL, GitHub, TailwindCSS, React.js, Next.js, PHP, Laravel, Linked Data
+
+**Good to know**\
+I prefer a trackpad over a mouse 👀
+{% endhint %}
