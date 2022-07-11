@@ -68,3 +68,19 @@ Friends and colleagues describe me as an enthusiastic, reliable and creative go-
 **Good to know**\
 ****I love swimming and surfing, but please don't confront me with a fish 🐠 waaay too slippery 😱
 {% endhint %}
+
+{% hint style="success" %}
+**Fabian Tilmant \[Fabian (BOSA)#1988 on Discord]**\
+****_**Inspector Widget**_\
+Innovation Architect at BOSA
+
+**Bio**\
+Innovation professional, worked in many companies for 20 years. Ask me about Lean Startup, Customer Development, Design Thinking...\
+[https://bosa.belgium.be](https://bosa.belgium.be/)
+
+**Skills**\
+Business modelling, User Research, Project Management, Product Management Design Thinking tools and methods
+
+**Good to know**\
+****I may not look like it, but I'm an introvert. There's no such thing as awkward silence :)
+{% endhint %}
