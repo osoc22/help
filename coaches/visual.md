@@ -110,3 +110,20 @@ You can send him dog-videos or talk about anything that includes new technology,
 **Good to know**\
 Inti is the sun god of the Inca's
 {% endhint %}
+
+{% hint style="success" %}
+**Miet Claes \[Miet#7556 on Discord]**\
+****_**Knowledge impact, coordination & osoc lead coach**_\
+****Product manager & designer at the University Library Ghent Boekentoren\
+\
+**Bio**\
+****🧜‍♀️Product manager & designer by day, Open Knowledge 🪑 by night, osoc in the summer 🌞– dancing in between 💃.\
+__\
+__**Skills**\
+__UI design, UX design, Graphic Design, Documentation, Scoping sessions, Making tutorials.\
+HTML, CSS, Figma, Git & GitHub & Gitbook. I made a lot of tutorials for osoc and I loved it. I make mediocre videos but they work.\
+[**https://miet.be**](https://miet.be) but it needs an update\
+\
+**Good to know**\
+****I usually forget everything I said during the morning show immediately.
+{% endhint %}
