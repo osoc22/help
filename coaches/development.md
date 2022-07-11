@@ -2,7 +2,7 @@
 description: Front-end, back-end, maps, ...
 ---
 
-# 🦹🏽 Development
+# 🦹🏽 Development & Data
 
 {% hint style="success" %}
 **🦹🏽 Jodi De Loof \[Jodi De Loof#6665 on Discord]**\
@@ -135,4 +135,20 @@ Software Engineer at Pexip
 
 **Good to know**\
 I prefer a trackpad over a mouse 👀
+{% endhint %}
+
+{% hint style="success" %}
+**Pieterjan Dendauw \[dendpj#9576 on Discord]**\
+****_**Knowledge impact**_\
+Business Analyst at Ghent University
+
+**Bio**\
+****Business analyst with a strong focus on data analysis in python and R, skills in data science.\
+[https://www.linkedin.com/in/pieterjandendauw/](https://www.linkedin.com/in/pieterjandendauw/)
+
+**Skills**\
+****Storytelling data analysis, engineering python, R, Shiny
+
+**Good to know**\
+I prefer painting over programming.
 {% endhint %}
