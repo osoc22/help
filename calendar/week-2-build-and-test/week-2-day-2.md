@@ -14,6 +14,10 @@ But what is your role as the creators of these technologies? What can you do to 
 \
 Link in calendar.&#x20;
 
+## \[optional workshop] inclusive communications by Robin
+
+Want to learn how to create an inclusive digital world? Want to know how to integrate all people and groups, each with their own digital skills, (dis)abilities and challenges in your writing/design style, then this workshop is for you!
+
 {% hint style="info" %}
 Can't attend the talk or workshop? Don't worry! They're all optional, and online ones are recorded – you can watch them after work with some 🍿🥤
 {% endhint %}
