@@ -37,3 +37,18 @@ Hi, I am Niels! 29 y/o freelance designer from Ghent. Mainly working as a freela
 **Good to know**\
 My favourite animal is a duck.
 {% endhint %}
+
+{% hint style="success" %}
+**Miel Van Opstal \[Miel#2241 on Discord]**\
+_**Inspector Widget & Procedure Builder**_\
+Innovation strategist at iO
+
+**Bio**\
+****I see myself as an innovation accelerator - a change agent - shaping the future, standing at the crossroads of behavioural design, technology, digital marketing strategy and consumer psychology. https://iodigital.com
+
+**Skills**\
+****Business modelling marketing, storytelling, business modelling html / php
+
+**Good to know**\
+Likes to experience music, food, friends and drinks. most likely all at once.
+{% endhint %}
