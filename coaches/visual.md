@@ -4,13 +4,6 @@ description: UI / UX / Graphic design, videography, animation
 
 # 👩‍🎤 Visual
 
-{% hint style="warning" %}
-🚧 **Under construction** 🚧 \
-You'll discover more about your coaches, councillors and student coaches in week 2 🥳
-{% endhint %}
-
-
-
 {% hint style="success" %}
 **👩‍🎤 Robin Julien \[RobinJulien#9653 on Discord]**\
 ****_**OnWheels, CIRCL Vanhout**_\

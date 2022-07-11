@@ -6,43 +6,19 @@ description: >-
 
 # 🦄 Communication & Strategy
 
-{% hint style="warning" %}
-🚧 **Under construction** 🚧 \
-You'll discover more about your coaches, councillors and student coaches in week 2 🥳
-{% endhint %}
-
-## Coaches
-
 {% hint style="success" %}
-**Coach Name \[Name#1234 on Discord]**\
-**Project names**\
-****Role at Company\
-\
+**Peter Bertels \[pbertels#8667 on Discord**\
+****_**CIRCL Vanhout**_\
+Digital Architect at CIRCL by Vanhout
+
 **Bio**\
-****Lorem Ipsum\
-__**Skills**\
-__UI Design, UX, Accessibility, Motion\
-Figma, Notion, Adobe create cloud apps\
-[**links-to-websites.com**](https://osoc.be)****\
-****\
+Peter Bertels combines a doctoral degree in Computer Science Engineering from Ghent University and a business degree from KU Leuven. Peter has a passion for innovation and entrepreneurship. He helps companies to fire start their innovation process with design thinking, business modelling and customer development. He is founder of Dwengo (STEM education) and Norsu (innovation consulting). In 2021 he joined Vanhout to launch a new venture: CIRCL with a team of intrapreneurs. CIRCL is a radically digital construction company.\
+[https://circl.be](https://circl.be)
+
+**Skills**\
+Business modelling PHP, JS
+
 **Good to know**\
-****_Something funny about the coach_
+Even with two left hands, it's possible to work for a construction company
 {% endhint %}
 
-## Councillors
-
-{% hint style="info" %}
-**Councillor Name \[Name#1234 on Discord]**\
-**Project names**\
-****Role at Company\
-\
-**Bio**\
-****Lorem Ipsum\
-__**Skills**\
-__UI Design, UX, Accessibility, Motion\
-Figma, Notion, Adobe create cloud apps\
-[**links-to-websites.com**](https://osoc.be)****\
-****\
-**Good to know**\
-****_Something funny about the councillor_
-{% endhint %}

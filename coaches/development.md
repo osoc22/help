@@ -4,15 +4,10 @@ description: Front-end, back-end, maps, ...
 
 # 🦹🏽 Development
 
-{% hint style="warning" %}
-🚧 **Under construction** 🚧 \
-You'll discover more about your coaches, councillors and student coaches in week 2 🥳
-{% endhint %}
-
 {% hint style="success" %}
 **🦹🏽 Jodi De Loof \[Jodi De Loof#6665 on Discord]**\
 ****_**ABB, CIRCL Vanhout**_\
-****Works at AE as a Project management & Scrum master consultant\
+****Project management & Scrum master consultant at AE\
 \
 **Bio**\
 ****I'm an IT consultant with a wide range of interests and experiences.
@@ -32,15 +27,50 @@ __Front-end Font-end, Back-end, agile, scrum, project & stakeholder management, 
 {% hint style="success" %}
 **🦹🏽 Clément Vandendaelen \[LotuxPunk#1962 on Discord]**\
 ****_**Deployment Stick Man**_\
-Works at TAKTIK SA as a Software engineer\
+Software engineer at TAKTIK SA\
 \
 **Bio**\
 ****Software engineer at iCure/Taktik, eager for learn stuff and help people!\
-__\
-__**Skills**\
+[https://vandendaelen.com](https://vandendaelen.com)
+
+\
+**Skills**\
 Modding and Excel Macros Back-end Mobile development (native Kotlin/Swift) Kotlin, Java, Typescript, JavaScript, PHP, Swift\
-[https://vandendaelen.com](https://vandendaelen.com)\
 \
 **Good to know**\
 I started programming with Minecraft&#x20;
+{% endhint %}
+
+{% hint style="success" %}
+**Peter Bertels \[pbertels#8667 on Discord**\
+****_**CIRCL Vanhout**_\
+Digital Architect at CIRCL by Vanhout
+
+**Bio**\
+Peter Bertels combines a doctoral degree in Computer Science Engineering from Ghent University and a business degree from KU Leuven. Peter has a passion for innovation and entrepreneurship. He helps companies to fire start their innovation process with design thinking, business modelling and customer development. He is founder of Dwengo (STEM education) and Norsu (innovation consulting). In 2021 he joined Vanhout to launch a new venture: CIRCL with a team of intrapreneurs. CIRCL is a radically digital construction company.\
+[https://circl.be](https://circl.be)
+
+**Skills**\
+Business modelling PHP, JS
+
+**Good to know**\
+Even with two left hands, it's possible to work for a construction company
+{% endhint %}
+
+{% hint style="success" %}
+**Meg Vandezande \[MegV#3125 on Discord]**\
+****_**NCCN**_\
+****Fullstack developer at Meg Vandezande\
+****\
+**Bio**\
+Hi! A bit more than 4 years ago I followed a coding bootcamp with Le Wagon in Brussels. The four years following this bootcamp, I have worked in 2 different startups as fullstack developer. A couple of months ago, I have joined the freelancer club.\
+[wearemiyu.com](https://wearemiyu.com)
+
+\
+**Skills**\
+****Front-end Ruby on Rails, React, JS, HTML, CSS, some nodejs
+
+\
+**Good to know**\
+****I consist of 50% pasta 🍝
 {% endhint %}
