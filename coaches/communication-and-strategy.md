@@ -22,3 +22,18 @@ Business modelling PHP, JS
 Even with two left hands, it's possible to work for a construction company
 {% endhint %}
 
+{% hint style="success" %}
+**Niels Dewelde \[Niels#0264 on Discord]**\
+****_**Comms team, ABB & Butterfly**_\
+Digital Product Designer at Flagship Studio / In The Pocket
+
+**Bio**\
+Hi, I am Niels! 29 y/o freelance designer from Ghent. Mainly working as a freelance digital product designer for In The Pocket, and co-founder of Bezetbevrijd.nl. My skills as a designer are wide, from turning complex problems into ideal solutions, digital interfaces, illustrations, brand identity to print.\
+[https://www.inthepocket.com](https://www.inthepocket.com)
+
+**Skills**\
+****UI Design UX, Graphic Design, Motion Design, Accessibility, Storytelling. Mainly Figma, Principle, Illustrator, Photoshop, InDesign, After Effects, Acrobat, Lottie
+
+**Good to know**\
+My favourite animal is a duck.
+{% endhint %}
