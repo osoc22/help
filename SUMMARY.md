@@ -4,7 +4,7 @@
 * [Coaches, Student Coaches & Councillors](coaches/README.md)
   * [👩‍🎤 Visual & Experience](coaches/visual.md)
   * [🦄 Communication & Strategy](coaches/communication-and-strategy.md)
-  * [🦹🏽 Development](coaches/development.md)
+  * [🦹🏽 Development & Data](coaches/development.md)
   * [🧙🏼‍♀️Coaching](coaches/coaching.md)
   * [🐙 Coordination](coaches/coordination.md)
 * [Calendar for #osoc22 Belgium](calendar/README.md)

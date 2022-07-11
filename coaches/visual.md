@@ -92,3 +92,21 @@ Designing is a process that moves past the creation of deliverables. It is a min
 **Good to know**\
 There are probably only a few people who know as much about reggae as I do in this country.
 {% endhint %}
+
+{% hint style="success" %}
+**Inti Valderas Caro \[Valderas#1429 on Discord]**\
+****_**Hey BOSA & Procedure Builder**_\
+UX Designer at Smooth Sailing
+
+**Bio**\
+****As a huge tech-lover, Inti loves experimenting with new technologies such as voice systems, AR, VR and so on. You'll always find him working on projects based on the newest technologies.
+
+You can send him dog-videos or talk about anything that includes new technology, Marvel movies, or some new crazy thing that Elon Musk has done.\
+[smoothsailing.be](https://smoothsailing.be)
+
+**Skills**\
+****UX Design Figma, Whimsical, Notion
+
+**Good to know**\
+Inti is the sun god of the Inca's
+{% endhint %}
