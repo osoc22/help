@@ -9,38 +9,38 @@ description: Front-end, back-end, maps, ...
 You'll discover more about your coaches, councillors and student coaches in week 2 🥳
 {% endhint %}
 
-## Coaches
-
 {% hint style="success" %}
-**Coach Name \[Name#1234 on Discord]**\
-**Project names**\
-****Role at Company\
+**🦹🏽 Jodi De Loof \[Jodi De Loof#6665 on Discord]**\
+****_**ABB, CIRCL Vanhout**_\
+****Works at AE as a Project management & Scrum master consultant\
 \
 **Bio**\
-****Lorem Ipsum\
+****I'm an IT consultant with a wide range of interests and experiences.
+
+I graduated in Applied Computer Science at HoGent, where I not only discovered my interest for technology but also for people and business.
+
+The world is constantly changing and transforming, because of this I'm often improving my knowledge of certain technologies, frameworks, workflows or anything that can help support organizations in delivering products and services in a more efficient way.\
+\
 __**Skills**\
-__UI Design, UX, Accessibility, Motion\
-Figma, Notion, Adobe create cloud apps\
-[**links-to-websites.com**](https://osoc.be)****\
+__Front-end Font-end, Back-end, agile, scrum, project & stakeholder management, people coaching, CI/CD, Team motivator Java (Quarkus), .NET, docker, JIRA, UML, API Design, Project scoping, Amazon S3, Angular, Test driven development, Git flow (and other version control branching techniques), SQL, excel (sadly)\
+[jodideloof.be](http://jodideloof.be/) \
 ****\
 **Good to know**\
-****_Something funny about the coach_
+****My favorite things to talk about / enjoy are wine, watches and food. Even better if you combine them ;)
 {% endhint %}
 
-## Councillors
-
-{% hint style="info" %}
-**Councillor Name \[Name#1234 on Discord]**\
-**Project names**\
-****Role at Company\
+{% hint style="success" %}
+**🦹🏽 Clément Vandendaelen \[LotuxPunk#1962 on Discord]**\
+****_**Deployment Stick Man**_\
+Works at TAKTIK SA as a Software engineer\
 \
 **Bio**\
-****Lorem Ipsum\
+****Software engineer at iCure/Taktik, eager for learn stuff and help people!\
+__\
 __**Skills**\
-__UI Design, UX, Accessibility, Motion\
-Figma, Notion, Adobe create cloud apps\
-[**links-to-websites.com**](https://osoc.be)****\
-****\
+Modding and Excel Macros Back-end Mobile development (native Kotlin/Swift) Kotlin, Java, Typescript, JavaScript, PHP, Swift\
+[https://vandendaelen.com](https://vandendaelen.com)\
+\
 **Good to know**\
-****_Something funny about the councillor_
+I started programming with Minecraft&#x20;
 {% endhint %}
