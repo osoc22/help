@@ -29,6 +29,7 @@
     * [Week 4 Day 3: Deliver like a Pro](calendar/week-4-document-and-deliver/week-4-day-3.md)
     * [Week 4 Day 4: Rehearsal + Demo Day + Goodbye ❤️](calendar/week-4-document-and-deliver/week-4-day-4-demo-day-+-goodbye.md)
 * [Partner meetings](collaboration-and-documentation.md)
+* [Workshops & Talks](workshops-and-talks.md)
 
 ## Projects & Partners <a href="#projects-partners" id="projects-partners"></a>
 
