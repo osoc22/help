@@ -35,7 +35,7 @@ Software engineer at TAKTIK SA\
 
 \
 **Skills**\
-Modding and Excel Macros Back-end Mobile development (native Kotlin/Swift) Kotlin, Java, Typescript, JavaScript, PHP, Swift\
+Back-end, Mobile development (native Kotlin/Swift) Kotlin, Java, Typescript, JavaScript, PHP, Swift\
 \
 **Good to know**\
 I started programming with Minecraft&#x20;
