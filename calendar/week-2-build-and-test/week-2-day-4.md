@@ -25,6 +25,10 @@ Create short pitch  to introduce the project and team. Slides optional.
       * The good things
       * The bad things
 
+Put your presentation in this folder!
+
+{% embed url="https://drive.google.com/drive/folders/1K0k4n6GqBln9VMXzg-oYvAqC4d9HWZUR?usp=sharing" %}
+
 {% embed url="https://help.osoc.be/global/tutorials/pitching/pitch-content-tips" %}
 
 {% embed url="https://help.osoc.be/global/tutorials/pitching/the-pitch#pitch-slides-template-with-tips-and-tricks" %}
