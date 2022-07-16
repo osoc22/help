@@ -4,6 +4,8 @@ description: Front-end, back-end, maps, ...
 
 # 🦹🏽 Development & Data
 
+## Student coaches
+
 {% hint style="info" %}
 **Bo Robbrecht \[BT#1063 on Discord]**\
 ****_**NCCN**_\
@@ -22,6 +24,8 @@ Software Engineer
 **Good to know**\
 ****Frequent traveler with an even wider taste in music.
 {% endhint %}
+
+## Coaches
 
 {% hint style="success" %}
 **🦹🏽 Jodi De Loof \[Jodi De Loof#6665 on Discord]**\
