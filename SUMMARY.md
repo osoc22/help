@@ -1,7 +1,7 @@
 # Table of contents
 
 * [#osoc22](README.md)
-* [Coaches, Student Coaches & Councillors](coaches/README.md)
+* [Coaches & Student Coaches](coaches/README.md)
   * [👩‍🎤 Visual & Experience](coaches/visual.md)
   * [🦄 Communication & Strategy](coaches/communication-and-strategy.md)
   * [🦹🏽 Development & Data](coaches/development.md)
