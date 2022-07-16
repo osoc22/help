@@ -4,6 +4,25 @@ description: Front-end, back-end, maps, ...
 
 # 🦹🏽 Development & Data
 
+{% hint style="info" %}
+**Bo Robbrecht \[BT#1063 on Discord]**\
+****_**NCCN**_\
+Software Engineer
+
+**Bio**\
+****25% Developer,  25% Teamplayer, 25% Operations and 25% Designer combined into a Software Engineer that tackles new challenges with 200% motivation.
+
+**Skills**\
+****Best at Front-end. Back-end, DevOps, Prototyping, Deployment, Web Responsiveness, Internet of Things.
+
+**Tools & languages**\
+****Javascript, Typescript, C#, Python, React, Vue.js, Lit.js, PHP, Laravel, Figma, Github Actions, Gitlab Runners, Docker, Openshift, Kubernetes, Git, REST, GrapQL, OpenAPI, SASS, CSS, Database Design, HTML, Java, Java Spring, Object-oriented Programming, Functional documentation writing, Technical documentation writing.\
+[https://github.com/stars/BT-Creator/lists/projects-i-ve-worked-on](https://github.com/stars/BT-Creator/lists/projects-i-ve-worked-on)
+
+**Good to know**\
+****Frequent traveler with an even wider taste in music.
+{% endhint %}
+
 {% hint style="success" %}
 **🦹🏽 Jodi De Loof \[Jodi De Loof#6665 on Discord]**\
 ****_**ABB, CIRCL Vanhout**_\
@@ -42,7 +61,7 @@ I started programming with Minecraft&#x20;
 {% endhint %}
 
 {% hint style="success" %}
-**Peter Bertels \[pbertels#8667 on Discord**\
+**Peter Bertels \[pbertels#8667 on Discord]**\
 ****_**CIRCL Vanhout**_\
 Digital Architect at CIRCL by Vanhout
 
