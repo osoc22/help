@@ -8,7 +8,8 @@ description: Front-end, back-end, maps, ...
 
 {% hint style="info" %}
 **Bo Robbrecht \[BT#1063 on Discord]**\
-****Software Engineer @ NCCN
+****_**NCCN**_\
+Software Engineer
 
 **Bio**\
 ****25% Developer,  25% Teamplayer, 25% Operations and 25% Designer combined into a Software Engineer that tackles new challenges with 200% motivation.
@@ -22,49 +23,6 @@ description: Front-end, back-end, maps, ...
 
 **Good to know**\
 ****Frequent traveler with an even wider taste in music.
-{% endhint %}
-
-{% hint style="info" %}
-**Erinn \[evdsande#5998 on Discord]**\
-****Artificial Intelligence - Computational Creativity @ Hey BOSA\
-\
-**Bio**\
-****Hello my name is Erinn.
-
-I started my bachelor in Computer science in 2017 at the VUB and finished my masters this year. I ended up going for the masters specializing in Artificial Intelligence because I liked its interdisciplinary nature.
-
-I have had course ranging from natural language processing to computational creativity and information visualisation. I am always on the hunt for new things to learn.
-
-I also think that I am a pretty good debug buddy. So if you are stuck and need someone to take a look at it, you know where to find me!\
-\
-**Skills**\
-****Best at Back-end\
-Algorithmic thinking, Artificial Intelligence, debugging, documenting [https://www.linkedin.com/in/erinn-van-der-sande/](https://www.linkedin.com/in/erinn-van-der-sande/)\
-\
-**Tools & languages**\
-****Scheme, Scala, C, Java, Assembly, Python, Lisp, PROLOG, R, Rust, Scala Play, Django, Flask, RxJS, SQL, Datalog, SPARQL, RDF(S), Apache Spark, Akka Streams, Akka Actors, Artificial Intelligence, Natural Language Processing (NLP)\
-\
-**Good to know**\
-****I game in my free time 🎮. Hearthstone climbing to legend. Scouts leader for 6 years ⚜️.
-{% endhint %}
-
-{% hint style="info" %}
-**Lin de \[LndH#0023 on Discord]**\
-Natural Language Generation @ CIRCL – Vanhout\
-\
-**Bio**\
-****I just graduated as a Master of Applied Sciences and Engineering: Computer Science (AI) at Vrije Universiteit Brussel.
-
-This is my second year at osoc and I'm loving it.
-
-**Skills**\
-****Best at Back-end writing [https://www.linkedin.com/in/lin-de-huybrecht](https://www.linkedin.com/in/lin-de-huybrecht)
-
-**Tools & languages**\
-Scala, Scheme, Java, Prolog, C, JavaScript, Python, Common Lisp, Clojure, R, Scala Play, Django, ReactJS, Apache Spark Scala, ReactiveX (RxJS), RDF(S) & SPARQL, Jekyll Static Site Generator, MySQL, Git, IntelliJ IDEA\
-\
-**Good to know**\
-****I'm good at being lucky 🍀: I have won multiple prizes in non-merit-based, free competitions.
 {% endhint %}
 
 ## Coaches
