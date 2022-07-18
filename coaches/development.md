@@ -8,8 +8,7 @@ description: Front-end, back-end, maps, ...
 
 {% hint style="info" %}
 **Bo Robbrecht \[BT#1063 on Discord]**\
-****_**NCCN**_\
-Software Engineer
+****Software Engineer @ NCCN
 
 **Bio**\
 ****25% Developer,  25% Teamplayer, 25% Operations and 25% Designer combined into a Software Engineer that tackles new challenges with 200% motivation.
@@ -27,7 +26,7 @@ Software Engineer
 
 {% hint style="info" %}
 **Erinn \[evdsande#5998 on Discord]**\
-****Artificial Intelligence - Computational Creativity @ CIRCL – Vanhout\
+****Artificial Intelligence - Computational Creativity @ Hey BOSA\
 \
 **Bio**\
 ****Hello my name is Erinn.
@@ -47,6 +46,25 @@ Algorithmic thinking, Artificial Intelligence, debugging, documenting [https://w
 \
 **Good to know**\
 ****I game in my free time 🎮. Hearthstone climbing to legend. Scouts leader for 6 years ⚜️.
+{% endhint %}
+
+{% hint style="info" %}
+**Lin de \[LndH#0023 on Discord]**\
+Natural Language Generation @ CIRCL – Vanhout\
+\
+**Bio**\
+****I just graduated as a Master of Applied Sciences and Engineering: Computer Science (AI) at Vrije Universiteit Brussel.
+
+This is my second year at osoc and I'm loving it.
+
+**Skills**\
+****Best at Back-end writing [https://www.linkedin.com/in/lin-de-huybrecht](https://www.linkedin.com/in/lin-de-huybrecht)
+
+**Tools & languages**\
+Scala, Scheme, Java, Prolog, C, JavaScript, Python, Common Lisp, Clojure, R, Scala Play, Django, ReactJS, Apache Spark Scala, ReactiveX (RxJS), RDF(S) & SPARQL, Jekyll Static Site Generator, MySQL, Git, IntelliJ IDEA\
+\
+**Good to know**\
+****I'm good at being lucky 🍀: I have won multiple prizes in non-merit-based, free competitions.
 {% endhint %}
 
 ## Coaches
