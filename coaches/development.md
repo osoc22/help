@@ -8,8 +8,7 @@ description: Front-end, back-end, maps, ...
 
 {% hint style="info" %}
 **Bo Robbrecht \[BT#1063 on Discord]**\
-****_**NCCN**_\
-Software Engineer
+****Software Engineer @ NCCN
 
 **Bio**\
 ****25% Developer,  25% Teamplayer, 25% Operations and 25% Designer combined into a Software Engineer that tackles new challenges with 200% motivation.
@@ -23,6 +22,104 @@ Software Engineer
 
 **Good to know**\
 ****Frequent traveler with an even wider taste in music.
+{% endhint %}
+
+{% hint style="info" %}
+**Erinn \[evdsande#5998 on Discord]**\
+****Artificial Intelligence - Computational Creativity @ Hey BOSA\
+\
+**Bio**\
+****Hello my name is Erinn.
+
+I started my bachelor in Computer science in 2017 at the VUB and finished my masters this year. I ended up going for the masters specializing in Artificial Intelligence because I liked its interdisciplinary nature.
+
+I have had course ranging from natural language processing to computational creativity and information visualisation. I am always on the hunt for new things to learn.
+
+I also think that I am a pretty good debug buddy. So if you are stuck and need someone to take a look at it, you know where to find me!\
+\
+**Skills**\
+****Best at Back-end\
+Algorithmic thinking, Artificial Intelligence, debugging, documenting [https://www.linkedin.com/in/erinn-van-der-sande/](https://www.linkedin.com/in/erinn-van-der-sande/)\
+\
+**Tools & languages**\
+****Scheme, Scala, C, Java, Assembly, Python, Lisp, PROLOG, R, Rust, Scala Play, Django, Flask, RxJS, SQL, Datalog, SPARQL, RDF(S), Apache Spark, Akka Streams, Akka Actors, Artificial Intelligence, Natural Language Processing (NLP)\
+\
+**Good to know**\
+****I game in my free time 🎮. Hearthstone climbing to legend. Scouts leader for 6 years ⚜️.
+{% endhint %}
+
+{% hint style="info" %}
+**Lin de \[LndH#0023 on Discord]**\
+Natural Language Generation @ CIRCL – Vanhout\
+\
+**Bio**\
+****I just graduated as a Master of Applied Sciences and Engineering: Computer Science (AI) at Vrije Universiteit Brussel.
+
+This is my second year at osoc and I'm loving it.
+
+**Skills**\
+****Best at Back-end writing [https://www.linkedin.com/in/lin-de-huybrecht](https://www.linkedin.com/in/lin-de-huybrecht)
+
+**Tools & languages**\
+Scala, Scheme, Java, Prolog, C, JavaScript, Python, Common Lisp, Clojure, R, Scala Play, Django, ReactJS, Apache Spark Scala, ReactiveX (RxJS), RDF(S) & SPARQL, Jekyll Static Site Generator, MySQL, Git, IntelliJ IDEA\
+\
+**Good to know**\
+****I'm good at being lucky 🍀: I have won multiple prizes in non-merit-based, free competitions.
+{% endhint %}
+
+{% hint style="info" %}
+**Carlos \[D34D#6053 on Discord]**\
+****Backend architecture, deployment and staying alive @ ABB
+
+**Bio**\
+****Just like Obelix I fell into a cauldron when I was little, but it was empty and I just hit my head. I'm very curious so my eyes will shine if you bring me anything new, let it be music, food, technology or a random fact about moles. I got accepted here because I'm a decent enough developer, that or I am a very good imposter ඞ
+
+**Skills**\
+****Best at Back-end\
+Transforming abstract requests into concrete solutions\
+[https://www.d34d.one](https://www.d34d.one)
+
+**Tools & languages**\
+Python and Typescript for higher level tasks, C and Rust if I need that extra performance. To me docker is second nature and I can even help with Kubernetes/Openshift orchestration.
+
+**Good to know**\
+****I was following a bachelor in Physics before my life made an u-turn and I landed on the IT field, I still love both with all my heart tho
+{% endhint %}
+
+{% hint style="info" %}
+**Cyrille \[Speedbird#2110 on Discord]** Cybersecurity @ Procedure Builder
+
+**Bio**\
+****I'm an IT Security student and passionate about OSS and digital privacy and in my spare time I like to read and mess around with my Linux distro. I do have experience with front and backend technologies.
+
+**Skills**\
+****Best at Back-end Cyber security\
+[https://cyrille-mathi.eu](https://cyrille-mathi.eu)
+
+**Tools & languages**\
+****Java, SQL, NoSQL, Laravel, SCSS, Vue, JS, Python, cmake, Kubernetes, Docker, Git, GitLab, Apache, ELK stack
+
+**Good to know**\
+I LOVE waffles, they're amazing.
+{% endhint %}
+
+{% hint style="info" %}
+**Tischa \[Tischa#7560 on Discord]**\
+Software development @ Inspector Widget
+
+**Bio**\
+****Hi, I am a student in Applied Computer Science with a strong interest in backend technologies. However, I do know some front-end too.
+
+**Skills**\
+****Best at Back-end\
+Front-end\
+[https://www.linkedin.com/in/tischa-nyanguile](https://www.linkedin.com/in/tischa-nyanguile)
+
+**Tools & languages**\
+****Java, Java Spring, Python, Django, Flask, Laravel, Symfony, React, Javascript, SQL, NoSQL, Dotnet, Cloud computing, Mobile apps (Android and Swift), NLP
+
+**Good to know**\
+****I am a homebody. I enjoy staying at home.
 {% endhint %}
 
 ## Coaches

@@ -4,6 +4,30 @@ description: UI / UX / Graphic design, videography, animation
 
 # 👩‍🎤 Visual & Experience
 
+## **Student coaches**
+
+{% hint style="info" %}
+**Britt \[RedRaven#5508 on Discord]**\
+Visual design and communications @ comms team\
+\
+**Bio**\
+****Gestructureerde Chaos 👉Visual Designer 👉Social Content Marketeer 🎨 Artist (paint, draw, experimental)
+
+Always looking for solutions, in a design way.
+
+**Skills**\
+****Best at Graphic Design\
+UI Design, Motion Design, Storytelling, Marketing, Copywriting, Painting, Branddesign [www.brittvanzegbroeck.be](https://www.brittvanzegbroeck.be)
+
+**Tools & languages**\
+****Adobe XD, Photoshop, Illustrator, Figma, After Effects, Indesign, Premiere, Bridge
+
+**Good to know**\
+****I am always the chickenlady in the room. You can find me by tracking my arm chicken!
+{% endhint %}
+
+## **Coaches**
+
 {% hint style="success" %}
 **👩‍🎤 Robin Julien \[RobinJulien#9653 on Discord]**\
 ****_**OnWheels, CIRCL Vanhout**_\
