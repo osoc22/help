@@ -25,6 +25,30 @@ Software Engineer
 ****Frequent traveler with an even wider taste in music.
 {% endhint %}
 
+{% hint style="info" %}
+**Erinn \[evdsande#5998 on Discord]**\
+****Artificial Intelligence - Computational Creativity @ CIRCL – Vanhout\
+\
+**Bio**\
+****Hello my name is Erinn.
+
+I started my bachelor in Computer science in 2017 at the VUB and finished my masters this year. I ended up going for the masters specializing in Artificial Intelligence because I liked its interdisciplinary nature.
+
+I have had course ranging from natural language processing to computational creativity and information visualisation. I am always on the hunt for new things to learn.
+
+I also think that I am a pretty good debug buddy. So if you are stuck and need someone to take a look at it, you know where to find me!\
+\
+**Skills**\
+****Best at Back-end\
+Algorithmic thinking, Artificial Intelligence, debugging, documenting [https://www.linkedin.com/in/erinn-van-der-sande/](https://www.linkedin.com/in/erinn-van-der-sande/)\
+\
+**Tools & languages**\
+****Scheme, Scala, C, Java, Assembly, Python, Lisp, PROLOG, R, Rust, Scala Play, Django, Flask, RxJS, SQL, Datalog, SPARQL, RDF(S), Apache Spark, Akka Streams, Akka Actors, Artificial Intelligence, Natural Language Processing (NLP)\
+\
+**Good to know**\
+****I game in my free time 🎮. Hearthstone climbing to legend. Scouts leader for 6 years ⚜️.
+{% endhint %}
+
 ## Coaches
 
 {% hint style="success" %}
