@@ -6,6 +6,25 @@ description: >-
 
 # 🦄 Communication & Strategy
 
+## Student coaches
+
+{% hint style="info" %}
+**Fien \[fien#6114 on Discord]**\
+****Digital strategy and business development @ **Knowledge impact**\
+\
+**Bio**\
+****I'm a 22 year old cat mom with a slight chocolate obsession. I'm most interested in innovation management, digital transformation facilitation and digital strategy. I love to talk and work in English and hope to one day move to the UK for work.
+
+**Skills**\
+****Best at Business modelling\
+Storytelling, copyrighting, project management, research.
+
+**Good to know**\
+****On holiday, I bring an extra suitcase just filled with books.
+{% endhint %}
+
+## Coaches
+
 {% hint style="success" %}
 **Peter Bertels \[pbertels#8667 on Discord**\
 ****_**CIRCL Vanhout**_\
