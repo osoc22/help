@@ -15,3 +15,9 @@
 {% embed url="http://meet.openknowledge.be/playback/presentation/2.3/8e187933d1c40c617ae119fe8855fbef58fc44cb-1657633218106" %}
 
 {% file src=".gitbook/assets/Digital_inclusion_-_introduction.pdf" %}
+
+## \[Workshop] Pitching 101 with Lotte
+
+{% embed url="http://meet.openknowledge.be/playback/presentation/2.3/b44b155919f44ba03b06be194371bbaf781377ca-1658303954799" %}
+
+{% file src=".gitbook/assets/Pitching 101 (2).pdf" %}
