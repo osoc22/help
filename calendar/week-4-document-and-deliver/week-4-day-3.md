@@ -1,5 +1,11 @@
 # Week 4 Day 3: Deliver like a Pro
 
+## Deadline for pitches:
+
+## Pitches
+
+\[DEADLINE] Drop your presentations here by 09:30 (Demo Day) [https://drive.google.com/drive/folders/1K0k4n6GqBln9VMXzg-oYvAqC4d9HWZUR?usp=sharing](https://drive.google.com/drive/folders/1K0k4n6GqBln9VMXzg-oYvAqC4d9HWZUR?usp=sharing).
+
 ## Deliver Like a Pro
 
 Find your delivery checklist in your [**project page**](../../projects-partners/projects-partners.md).
